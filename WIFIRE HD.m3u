@@ -1,0 +1,143 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1426_NBN_LITE--AnimalPlannetHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",Discovery Channel HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1408_NBN_LITE--DiscoveryChannelHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",Discovery Science HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1442_NBN_LITE--DiscoveryScienceHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",DTX
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1428_NBN_LITE--DiscoveryWorld_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",Эврика HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1444_NBN_LITE--eurekahd_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1422_NBN_LITE--EuroSportHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1467_NBN_LITE--Eurosport2HD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",FAN HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1488_NBN_LITE--FANHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Fox Life HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1468_NBN_LITE--Fox_Life_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Fox HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1471_NBN_LITE--Fox_HD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Музыкальные",MTV Live HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1477_NBN_LITE--MTV_Live_HD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Музыкальные",MTV Russia HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1446_NBN_LITE--MTVHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1490_NBN_LITE--Nickelodeon_HD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Paramount Channel
+http://api.wifire.tv/proxy/cookies?url=http://live02-cdn.tv.ti.ru/dtv/id1372_NBN_SG--Paramount_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Paramount Comedy HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1410_NBN_LITE--ParamountComedy_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Sony Channel HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1263_NBN_SG--SETHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Sony Sci-Fi
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1412_NBN_LITE--SonySciFi_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Sony Turbo
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1414_NBN_LITE--SonyTurbo_wflite/01/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",TLC HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1424_NBN_LITE--TLCHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",HDL
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1445_NBN_LITE--hdlife_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",Живая Планета
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1128_NBN_SG--ZhivayaPlaneta_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Детские",Капитан Фантастика HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1453_NBN_LITE--Ginger_HD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Спортивные",Матч! Арена HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1458_NBN_LITE--MatchArenaHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Спортивные",Матч! Игра HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1462_NBN_LITE--MatchIgraHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Спортивные",Матч Премьер HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1492_NBN_LITE--nf_hd_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Футбол 1 HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1487_NBN_LITE--NTVFutbol1_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Футбол 2 HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1476_NBN_LITE--NTVFootball2_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Спортивные",МАТЧ! Футбол 3 HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1472_NBN_LITE--NTV_Futbol_3_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Спортивные",КХЛ HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1450_NBN_LITE--KHL_HD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Кино ТВ HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1413_NBN_SG--KinoTVHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Кинохит HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1264_NBN_SG--KinohitHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Киносемья HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1261_NBN_SG--KinosemHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Киносвидание HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1262_NBN_SG--KinosvidHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Киномикс
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1451_NBN_LITE--NTVKinoPlus_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Кинокомедия
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1295_NBN_SG--komediya_tv_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Киносерия
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1419_NBN_LITE--mnogo_tv_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Мужское Кино
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1466_NBN_LITE--MuzskoeKino_wflite/01/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Наше новое кино
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1291_NBN_SG--NasheNovKino_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Родное Кино
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1436_NBN_LITE--RodnoeKino_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+http://api.wifire.tv/proxy/cookies?url=http://live02-cdn.tv.ti.ru/dtv/id1352_NBN_SG--Nauka_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Информационные",Дождь HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1437_NBN_LITE--DozhdHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Информационные",Дождь HD
+http://api.wifire.tv/proxy/cookies?url=http://live02-cdn.tv.ti.ru/dtv/id1277_NBN_SG--DozhdHD/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",RTG
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1355_NBN_SG--RTG_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",НСТВ
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1357_NBN_SG--nstv_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+
+
+
+
+#EXTINF:-1 group-title="Эфирные",Первый канал
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1401_NBN_SG--1TV_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Эфирные",Первый канал HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1576_NBN_LITE--1TVHD_OTT_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Эфирные",Россия 1
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1402_NBN_SG--Rossia1_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Эфирные",Россия 1 HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1400_NBN_SG--Rossia1HD_OTT_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Спортивные",Матч ТВ HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id931_NBN_SG--matchott_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Информационные",Известия HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1276_NBN_SG--IzvestiaHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Эфирные",МИР Premium HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1571_NBN_SG--mirhd_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Музыкальные",Жара HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id930_NBN_SG--ZharaHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Русский роман HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1300_NBN_SG--RusRoman_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Детские",Мульт HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1301_NBN_SG--TlumHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Спортивные",Старт HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1303_NBN_SG--StartHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Киноужас HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1285_NBN_SG--Kinouzhas_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",Моя Планета HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1145_NBN_SG--PlanetaHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Музыкальные",AIVA TV HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1208_NBN_SG--AIVAHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Музыкальные",RU.TV HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1305_NBN_SG--RUTV_HD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",RT Doc HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1539_NBN_LITE--RTDHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Музыкальные",Europa Plus TV HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1168_NBN_SG--europaplushd_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",Авто Плюс HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1256_NBN_SG--AutoPlusHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://www.wifire.ru/uploads/tv_channels/355.png",Первый РНК HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1570_NBN_SG--PervRNK_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые",Ратник HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id934_NBN_SG--ratnic_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Познавательные",World Fashion Channel HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1204_NBN_SG--WorldFashHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://tv.ti.ru/Subscriber/image/360_podmoskovye_mobile_web.png",360° HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1272_NBN_SG--360HD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Музыкальные",О2ТВ HD
+http://api.wifire.tv/proxy/cookies?url=http://cdn.tv.ti.ru/dtv/id1175_NBN_SG--o2tvhd_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Фильмовые" tvg-logo="https://tv.ti.ru/Subscriber/image/TRASH_mob.png",TRASH HD
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id1512_NBN_LITE--TrashHD_wflite/04/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
+#EXTINF:-1 group-title="Эфирные",НТВ
+http://api.wifire.tv/proxy/cookies?url=http://live03-cdn.tv.ti.ru/dtv/id898_NBN_SG--NTV_wflite/03/plst.m3u8&c=session_token=EYsOqauygxuOqxO9-KtOzQ_1605830160_c4ca4238a0b923820dcc509a6f75849b_1691487_1_m3u&output=hls
