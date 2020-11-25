@@ -1,0 +1,209 @@
+﻿#EXTM3U
+#EXTINF:-1  group-title="HD" tvg-id="",Первый HD
+http://192.168.0.105:9098/InternationalID=3981
+#EXTINF:-1  group-title="SD" tvg-id="",Матч ТВ
+http://192.168.0.105:9098/InternationalID=3983
+#EXTINF:-1  group-title="HD" tvg-id="",Россия 1 HD
+http://192.168.0.105:9098/InternationalID=3982
+#EXTINF:-1  group-title="SD" tvg-id="",НТВ
+http://192.168.0.105:9098/InternationalID=3984
+#EXTINF:-1  group-title="SD" tvg-id="",5 канал
+http://192.168.0.105:9098/InternationalID=3985
+#EXTINF:-1  group-title="HD" tvg-id="",Russian Music Box HD
+http://192.168.0.105:9098/InternationalID=4008
+#EXTINF:-1  group-title="SD" tvg-id="",Культура
+http://192.168.0.105:9098/InternationalID=3986
+#EXTINF:-1  group-title="HD" tvg-id="",НТВ HD
+http://192.168.0.105:9098/InternationalID=4038
+#EXTINF:-1  group-title="SD" tvg-id="",Россия 24
+http://192.168.0.105:9098/InternationalID=3987
+#EXTINF:-1  group-title="HD" tvg-id="",Мир HD
+http://192.168.0.105:9098/InternationalID=4039
+#EXTINF:-1  group-title="SD" tvg-id="",Карусель
+http://192.168.0.105:9098/InternationalID=3988
+#EXTINF:-1  group-title="HD" tvg-id="",ТНТ HD
+http://192.168.0.105:9098/InternationalID=4040
+#EXTINF:-1  group-title="SD" tvg-id="",ОТР
+http://192.168.0.105:9098/InternationalID=3989
+#EXTINF:-1  group-title="HD" tvg-id="",Матч ТВ HD
+http://192.168.0.105:9098/InternationalID=4041
+#EXTINF:-1  group-title="SD" tvg-id="",ТВЦ
+http://192.168.0.105:9098/InternationalID=3990
+#EXTINF:-1  group-title="HD" tvg-id="",Матч! Футбол 1 HD
+http://192.168.0.105:9098/InternationalID=4042
+#EXTINF:-1  group-title="SD" tvg-id="",Рен ТВ
+http://192.168.0.105:9098/InternationalID=3991
+#EXTINF:-1  group-title="HD" tvg-id="",Матч! Футбол 2 HD
+http://192.168.0.105:9098/InternationalID=4043
+#EXTINF:-1  group-title="SD" tvg-id="",Спас
+http://192.168.0.105:9098/InternationalID=3992
+#EXTINF:-1  group-title="HD" tvg-id="",Матч! Футбол 3 HD
+http://192.168.0.105:9098/InternationalID=4044
+#EXTINF:-1  group-title="SD" tvg-id="",СТС
+http://192.168.0.105:9098/InternationalID=3993
+#EXTINF:-1  group-title="HD" tvg-id="",Матч! Премьер HD
+http://192.168.0.105:9098/InternationalID=4045
+#EXTINF:-1  group-title="SD" tvg-id="",Домашний
+http://192.168.0.105:9098/InternationalID=3994
+#EXTINF:-1  group-title="HD" tvg-id="",КХЛ HD
+http://192.168.0.105:9098/InternationalID=4046
+#EXTINF:-1  group-title="SD" tvg-id="",ТВ3
+http://192.168.0.105:9098/InternationalID=3995
+#EXTINF:-1  group-title="HD" tvg-id="",Матч! Арена HD
+http://192.168.0.105:9098/InternationalID=4047
+#EXTINF:-1  group-title="SD" tvg-id="",Пятница
+http://192.168.0.105:9098/InternationalID=3996
+#EXTINF:-1  group-title="HD" tvg-id="",Матч! Игра HD
+http://192.168.0.105:9098/InternationalID=4048
+#EXTINF:-1  group-title="SD" tvg-id="",Звезда
+http://192.168.0.105:9098/InternationalID=3997
+#EXTINF:-1  group-title="HD" tvg-id="",Russia Today HD
+http://192.168.0.105:9098/InternationalID=4053
+#EXTINF:-1  group-title="SD" tvg-id="",Мир
+http://192.168.0.105:9098/InternationalID=3998
+#EXTINF:-1  group-title="HD" tvg-id="",RT Д HD
+http://192.168.0.105:9098/InternationalID=4054
+#EXTINF:-1  group-title="SD" tvg-id="",ТНТ
+http://192.168.0.105:9098/InternationalID=3999
+#EXTINF:-1  group-title="HD" tvg-id="",СТС HD
+http://192.168.0.105:9098/InternationalID=7420
+#EXTINF:-1  group-title="SD" tvg-id="",Муз ТВ
+http://192.168.0.105:9098/InternationalID=4000
+#EXTINF:-1  group-title="HD" tvg-id="",РЕН ТВ HD
+http://192.168.0.105:9098/InternationalID=7421
+#EXTINF:-1  group-title="SD" tvg-id="",Europa Plus TV
+http://192.168.0.105:9098/InternationalID=4001
+#EXTINF:-1  group-title="HD" tvg-id="",ТВ 3 HD
+http://192.168.0.105:9098/InternationalID=7422
+#EXTINF:-1  group-title="SD" tvg-id="",ТНТ Music
+http://192.168.0.105:9098/InternationalID=4002
+#EXTINF:-1  group-title="HD" tvg-id="",Пятница HD
+http://192.168.0.105:9098/InternationalID=7419
+#EXTINF:-1  group-title="SD" tvg-id="",Bridge TV Deluxe
+http://192.168.0.105:9098/InternationalID=4080
+#EXTINF:-1  group-title="SD" tvg-id="",Bridge TV
+http://192.168.0.105:9098/InternationalID=4003
+#EXTINF:-1  group-title="SD" tvg-id="",Bridge TV Русский хит
+http://192.168.0.105:9098/InternationalID=4004
+#EXTINF:-1  group-title="SD" tvg-id="",Bridge TV Classic
+http://192.168.0.105:9098/InternationalID=4005
+#EXTINF:-1  group-title="SD" tvg-id="",Bridge TV Hits
+http://192.168.0.105:9098/InternationalID=4006
+#EXTINF:-1  group-title="SD" tvg-id="",Russian music box
+http://192.168.0.105:9098/InternationalID=4007
+#EXTINF:-1  group-title="SD" tvg-id="",Ю
+http://192.168.0.105:9098/InternationalID=4009
+#EXTINF:-1  group-title="SD" tvg-id="",Канал Disney
+http://192.168.0.105:9098/InternationalID=4010
+#EXTINF:-1  group-title="SD" tvg-id="",2x2
+http://192.168.0.105:9098/InternationalID=4011
+#EXTINF:-1  group-title="SD" tvg-id="",ТНТ4
+http://192.168.0.105:9098/InternationalID=4012
+#EXTINF:-1  group-title="SD" tvg-id="",Супер
+http://192.168.0.105:9098/InternationalID=4013
+#EXTINF:-1  group-title="SD" tvg-id="",СТС Love
+http://192.168.0.105:9098/InternationalID=4014
+#EXTINF:-1  group-title="SD" tvg-id="",Че
+http://192.168.0.105:9098/InternationalID=4015
+#EXTINF:-1  group-title="SD" tvg-id="",КиноМеню HD
+http://192.168.0.105:9098/InternationalID=4058
+#EXTINF:-1  group-title="SD" tvg-id="",Кинопремьера HD
+http://192.168.0.105:9098/InternationalID=4016
+#EXTINF:-1  group-title="SD" tvg-id="",Кинохит
+http://192.168.0.105:9098/InternationalID=4017
+#EXTINF:-1  group-title="SD" tvg-id="",Киносвидание
+http://192.168.0.105:9098/InternationalID=4018
+#EXTINF:-1  group-title="SD" tvg-id="",Киносемья
+http://192.168.0.105:9098/InternationalID=4019
+#EXTINF:-1  group-title="SD" tvg-id="",Мужское кино
+http://192.168.0.105:9098/InternationalID=4020
+#EXTINF:-1  group-title="SD" tvg-id="",Киномикс HD
+http://192.168.0.105:9098/InternationalID=4021
+#EXTINF:-1  group-title="SD" tvg-id="",Наше новое кино
+http://192.168.0.105:9098/InternationalID=4022
+#EXTINF:-1  group-title="SD" tvg-id="",Родное кино
+http://192.168.0.105:9098/InternationalID=4023
+#EXTINF:-1  group-title="SD" tvg-id="",Кинокомедия
+http://192.168.0.105:9098/InternationalID=4024
+#EXTINF:-1  group-title="SD" tvg-id="",Индийское кино
+http://192.168.0.105:9098/InternationalID=4025
+#EXTINF:-1  group-title="SD" tvg-id="",Киносерия
+http://192.168.0.105:9098/InternationalID=4026
+#EXTINF:-1  group-title="SD" tvg-id="",Киноужас HD
+http://192.168.0.105:9098/InternationalID=4027
+#EXTINF:-1  group-title="SD" tvg-id="",Матч! Футбол 1
+http://192.168.0.105:9098/InternationalID=4028
+#EXTINF:-1  group-title="SD" tvg-id="",Матч! Футбол 2
+http://192.168.0.105:9098/InternationalID=4029
+#EXTINF:-1  group-title="SD" tvg-id="",Матч! Футбол 3
+http://192.168.0.105:9098/InternationalID=4030
+#EXTINF:-1  group-title="SD" tvg-id="",Матч! Премьер
+http://192.168.0.105:9098/InternationalID=4031
+#EXTINF:-1  group-title="SD" tvg-id="",Матч! Арена
+http://192.168.0.105:9098/InternationalID=4032
+#EXTINF:-1  group-title="SD" tvg-id="",Матч! Игра
+http://192.168.0.105:9098/InternationalID=4033
+#EXTINF:-1  group-title="SD" tvg-id="",Матч! Страна
+http://192.168.0.105:9098/InternationalID=4034
+#EXTINF:-1  group-title="SD" tvg-id="",Матч! Боец
+http://192.168.0.105:9098/InternationalID=4035
+#EXTINF:-1  group-title="SD" tvg-id="",M-1 Global
+http://192.168.0.105:9098/InternationalID=4036
+#EXTINF:-1  group-title="SD" tvg-id="",Бокс ТВ
+http://192.168.0.105:9098/InternationalID=4037
+#EXTINF:-1  group-title="SD" tvg-id="",Москва 24
+http://192.168.0.105:9098/InternationalID=4049
+#EXTINF:-1  group-title="SD" tvg-id="",Известия
+http://192.168.0.105:9098/InternationalID=4050
+#EXTINF:-1  group-title="SD" tvg-id="",Башкортостан 24
+http://192.168.0.105:9098/InternationalID=4051
+#EXTINF:-1  group-title="SD" tvg-id="",ОТВ24
+http://192.168.0.105:9098/InternationalID=4052
+#EXTINF:-1  group-title="SD" tvg-id="",Нано
+http://192.168.0.105:9098/InternationalID=4055
+#EXTINF:-1  group-title="SD" tvg-id="",Luxury
+http://192.168.0.105:9098/InternationalID=4056
+#EXTINF:-1  group-title="SD" tvg-id="",HD Media
+http://192.168.0.105:9098/InternationalID=4057
+#EXTINF:-1  group-title="SD" tvg-id="",Неизвестная планета
+http://192.168.0.105:9098/InternationalID=4059
+#EXTINF:-1  group-title="SD" tvg-id="",Терра Инкогнита
+http://192.168.0.105:9098/InternationalID=4060
+#EXTINF:-1  group-title="SD" tvg-id="",Патриот
+http://192.168.0.105:9098/InternationalID=4061
+#EXTINF:-1  group-title="SD" tvg-id="",Классика Кино
+http://192.168.0.105:9098/InternationalID=4062
+#EXTINF:-1  group-title="SD" tvg-id="",Советское кино
+http://192.168.0.105:9098/InternationalID=4063
+#EXTINF:-1  group-title="SD" tvg-id="",Советские мультфильмы
+http://192.168.0.105:9098/InternationalID=4064
+#EXTINF:-1  group-title="SD" tvg-id="",Сказки Зайки
+http://192.168.0.105:9098/InternationalID=4065
+#EXTINF:-1  group-title="SD" tvg-id="",Joy Cook
+http://192.168.0.105:9098/InternationalID=4066
+#EXTINF:-1  group-title="SD" tvg-id="",Радость моя
+http://192.168.0.105:9098/InternationalID=4067
+#EXTINF:-1  group-title="SD" tvg-id="",Про Бизнес
+http://192.168.0.105:9098/InternationalID=4068
+#EXTINF:-1  group-title="SD" tvg-id="",Точка ТВ
+http://192.168.0.105:9098/InternationalID=4069
+#EXTINF:-1  group-title="SD" tvg-id="",Наш дом
+http://192.168.0.105:9098/InternationalID=4070
+#EXTINF:-1  group-title="SD" tvg-id="",Прибой
+http://192.168.0.105:9098/InternationalID=4071
+#EXTINF:-1  group-title="SD" tvg-id="",ТК-КВАНТ
+http://192.168.0.105:9098/InternationalID=4072
+#EXTINF:-1  group-title="SD" tvg-id="",ТНВ Планета
+http://192.168.0.105:9098/InternationalID=4073
+#EXTINF:-1  group-title="SD" tvg-id="",Майдан
+http://192.168.0.105:9098/InternationalID=4074
+#EXTINF:-1  group-title="SD" tvg-id="",Шаян
+http://192.168.0.105:9098/InternationalID=4075
+#EXTINF:-1  group-title="SD" tvg-id="",БСТ
+http://192.168.0.105:9098/InternationalID=4076
+#EXTINF:-1  group-title="SD" tvg-id="",Тамыр
+http://192.168.0.105:9098/InternationalID=4077
+#EXTINF:-1  group-title="SD" tvg-id="",Курай-ТВ
+http://192.168.0.105:9098/InternationalID=4078
+#EXTINF:-1  group-title="SD" tvg-id="",Салям
+http://192.168.0.105:9098/InternationalID=4079
