@@ -1,0 +1,269 @@
+﻿#EXTM3U  url-tvg="http://192.168.0.105:9098/epg/TVPLUS.xml?all"  
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Домашний
+http://192.168.0.105:9098/InternationalID=7151
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Звезда
+http://192.168.0.105:9098/InternationalID=7152
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Культура
+http://192.168.0.105:9098/InternationalID=7153
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Мир
+http://192.168.0.105:9098/InternationalID=7154
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Мир HD
+http://192.168.0.105:9098/InternationalID=7155
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Москва 24 (Москва)
+http://192.168.0.105:9098/InternationalID=7156
+#EXTINF:-1  group-title="Эфирные" tvg-id="",НТВ
+http://192.168.0.105:9098/InternationalID=7157
+#EXTINF:-1  group-title="Эфирные" tvg-id="",НТВ HD
+http://192.168.0.105:9098/InternationalID=7158
+#EXTINF:-1  group-title="Эфирные" tvg-id="",ОТР
+http://192.168.0.105:9098/InternationalID=7159
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Первый
+http://192.168.0.105:9098/InternationalID=7160
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Первый HD
+http://192.168.0.105:9098/InternationalID=7161
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Пятница
+http://192.168.0.105:9098/InternationalID=7162
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Пятница HD
+http://192.168.0.105:9098/InternationalID=7163
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Пятый канал
+http://192.168.0.105:9098/InternationalID=7164
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Рен ТВ
+http://192.168.0.105:9098/InternationalID=7165
+#EXTINF:-1  group-title="Эфирные" tvg-id="",РЕН ТВ HD
+http://192.168.0.105:9098/InternationalID=7166
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Россия 1
+http://192.168.0.105:9098/InternationalID=7167
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Россия 1 HD
+http://192.168.0.105:9098/InternationalID=7168
+#EXTINF:-1  group-title="Эфирные" tvg-id="",СТС
+http://192.168.0.105:9098/InternationalID=7169
+#EXTINF:-1  group-title="Эфирные" tvg-id="",СТС HD
+http://192.168.0.105:9098/InternationalID=7170
+#EXTINF:-1  group-title="Эфирные" tvg-id="",ТВ 3
+http://192.168.0.105:9098/InternationalID=7171
+#EXTINF:-1  group-title="Эфирные" tvg-id="",ТВ 3 HD
+http://192.168.0.105:9098/InternationalID=7172
+#EXTINF:-1  group-title="Эфирные" tvg-id="",ТВЦ
+http://192.168.0.105:9098/InternationalID=7173
+#EXTINF:-1  group-title="Эфирные" tvg-id="",ТНТ
+http://192.168.0.105:9098/InternationalID=7174
+#EXTINF:-1  group-title="Эфирные" tvg-id="",ТНТ HD
+http://192.168.0.105:9098/InternationalID=7175
+#EXTINF:-1  group-title="Эфирные" tvg-id="",Центральное телевидение
+http://192.168.0.105:9098/InternationalID=7176
+#EXTINF:-1  group-title="Спортивные" tvg-id="",M-1 Global
+http://192.168.0.105:9098/InternationalID=7177
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Бокс ТВ
+http://192.168.0.105:9098/InternationalID=7178
+#EXTINF:-1  group-title="Спортивные" tvg-id="",КХЛ HD
+http://192.168.0.105:9098/InternationalID=7179
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч ТВ
+http://192.168.0.105:9098/InternationalID=7180
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч ТВ HD
+http://192.168.0.105:9098/InternationalID=7181
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Арена
+http://192.168.0.105:9098/InternationalID=7182
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Арена HD
+http://192.168.0.105:9098/InternationalID=7183
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Боец
+http://192.168.0.105:9098/InternationalID=7184
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Игра
+http://192.168.0.105:9098/InternationalID=7185
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Игра HD
+http://192.168.0.105:9098/InternationalID=7186
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Премьер
+http://192.168.0.105:9098/InternationalID=7187
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Премьер HD
+http://192.168.0.105:9098/InternationalID=7188
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Страна
+http://192.168.0.105:9098/InternationalID=7189
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Футбол 1
+http://192.168.0.105:9098/InternationalID=7190
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Футбол 1 HD
+http://192.168.0.105:9098/InternationalID=7191
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Футбол 2
+http://192.168.0.105:9098/InternationalID=7192
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Футбол 2 HD
+http://192.168.0.105:9098/InternationalID=7193
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Футбол 3
+http://192.168.0.105:9098/InternationalID=7194
+#EXTINF:-1  group-title="Спортивные" tvg-id="",Матч! Футбол 3 HD
+http://192.168.0.105:9098/InternationalID=7195
+#EXTINF:-1  group-title="Информационные" tvg-id="",Russia Today HD
+http://192.168.0.105:9098/InternationalID=7196
+#EXTINF:-1  group-title="Информационные" tvg-id="",Известия
+http://192.168.0.105:9098/InternationalID=7197
+#EXTINF:-1  group-title="Информационные" tvg-id="",Про Бизнес
+http://192.168.0.105:9098/InternationalID=7198
+#EXTINF:-1  group-title="Информационные" tvg-id="",Россия 24
+http://192.168.0.105:9098/InternationalID=7199
+#EXTINF:-1  group-title="Детские" tvg-id="",Канал Disney
+http://192.168.0.105:9098/InternationalID=7200
+#EXTINF:-1  group-title="Детские" tvg-id="",Карусель
+http://192.168.0.105:9098/InternationalID=7201
+#EXTINF:-1  group-title="Детские" tvg-id="",Сказки Зайки
+http://192.168.0.105:9098/InternationalID=7202
+#EXTINF:-1  group-title="Детские" tvg-id="",Советские мультфильмы
+http://192.168.0.105:9098/InternationalID=7203
+#EXTINF:-1  group-title="Религиозные" tvg-id="",Радость моя
+http://192.168.0.105:9098/InternationalID=7204
+#EXTINF:-1  group-title="Религиозные" tvg-id="",Спас
+http://192.168.0.105:9098/InternationalID=7205
+#EXTINF:-1  group-title="Музыкальные" tvg-id="",Bridge TV
+http://192.168.0.105:9098/InternationalID=7206
+#EXTINF:-1  group-title="Музыкальные" tvg-id="",Bridge TV Classic
+http://192.168.0.105:9098/InternationalID=7207
+#EXTINF:-1  group-title="Музыкальные" tvg-id="",Bridge TV Deluxe
+http://192.168.0.105:9098/InternationalID=7208
+#EXTINF:-1  group-title="Музыкальные" tvg-id="",Bridge TV Hits
+http://192.168.0.105:9098/InternationalID=7209
+#EXTINF:-1  group-title="Музыкальные" tvg-id="",Bridge TV Русский хит
+http://192.168.0.105:9098/InternationalID=7210
+#EXTINF:-1  group-title="Музыкальные" tvg-id="",Europa Plus TV
+http://192.168.0.105:9098/InternationalID=7211
+#EXTINF:-1  group-title="Музыкальные" tvg-id="",Russian music box
+http://192.168.0.105:9098/InternationalID=7212
+#EXTINF:-1  group-title="Музыкальные" tvg-id="",Russian Music Box HD
+http://192.168.0.105:9098/InternationalID=7213
+#EXTINF:-1  group-title="Музыкальные" tvg-id="",Муз ТВ
+http://192.168.0.105:9098/InternationalID=7214
+#EXTINF:-1  group-title="Музыкальные" tvg-id="",ТНТ Music
+http://192.168.0.105:9098/InternationalID=7215
+#EXTINF:-1  group-title="Развлекательные" tvg-id="",2x2
+http://192.168.0.105:9098/InternationalID=7216
+#EXTINF:-1  group-title="Развлекательные" tvg-id="",СТС Love
+http://192.168.0.105:9098/InternationalID=7217
+#EXTINF:-1  group-title="Развлекательные" tvg-id="",Супер
+http://192.168.0.105:9098/InternationalID=7218
+#EXTINF:-1  group-title="Развлекательные" tvg-id="",ТНТ4
+http://192.168.0.105:9098/InternationalID=7219
+#EXTINF:-1  group-title="Развлекательные" tvg-id="",Че
+http://192.168.0.105:9098/InternationalID=7220
+#EXTINF:-1  group-title="Развлекательные" tvg-id="",Ю
+http://192.168.0.105:9098/InternationalID=7221
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Индийское кино
+http://192.168.0.105:9098/InternationalID=7222
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Кинокомедия
+http://192.168.0.105:9098/InternationalID=7223
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",КиноМеню HD
+http://192.168.0.105:9098/InternationalID=7224
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Киномикс HD
+http://192.168.0.105:9098/InternationalID=7225
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Кинопремьера HD
+http://192.168.0.105:9098/InternationalID=7226
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Киносвидание
+http://192.168.0.105:9098/InternationalID=7227
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Киносемья
+http://192.168.0.105:9098/InternationalID=7228
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Киносерия
+http://192.168.0.105:9098/InternationalID=7229
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Киноужас HD
+http://192.168.0.105:9098/InternationalID=7230
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Кинохит
+http://192.168.0.105:9098/InternationalID=7231
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Классика Кино
+http://192.168.0.105:9098/InternationalID=7232
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Мужское кино
+http://192.168.0.105:9098/InternationalID=7233
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Наше новое кино
+http://192.168.0.105:9098/InternationalID=7234
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Родное кино
+http://192.168.0.105:9098/InternationalID=7235
+#EXTINF:-1  group-title="Фильмовые" tvg-id="",Советское кино
+http://192.168.0.105:9098/InternationalID=7236
+#EXTINF:-1  group-title="Региональные" tvg-id="",11 канал (Пенза)
+http://192.168.0.105:9098/InternationalID=7237
+#EXTINF:-1  group-title="Региональные" tvg-id="",Башкортостан 24
+http://192.168.0.105:9098/InternationalID=7238
+#EXTINF:-1  group-title="Региональные" tvg-id="",БСТ
+http://192.168.0.105:9098/InternationalID=7239
+#EXTINF:-1  group-title="Региональные" tvg-id="",Курай-ТВ
+http://192.168.0.105:9098/InternationalID=7240
+#EXTINF:-1  group-title="Региональные" tvg-id="",Майдан (Казань)
+http://192.168.0.105:9098/InternationalID=7241
+#EXTINF:-1  group-title="Региональные" tvg-id="",ОТВ 24 (Екатеринбург)
+http://192.168.0.105:9098/InternationalID=7242
+#EXTINF:-1  group-title="Региональные" tvg-id="",Прибой
+http://192.168.0.105:9098/InternationalID=7243
+#EXTINF:-1  group-title="Региональные" tvg-id="",Салям
+http://192.168.0.105:9098/InternationalID=7244
+#EXTINF:-1  group-title="Региональные" tvg-id="",Тамыр
+http://192.168.0.105:9098/InternationalID=7245
+#EXTINF:-1  group-title="Региональные" tvg-id="",ТМ-КВАНТ (Междуреченск)
+http://192.168.0.105:9098/InternationalID=7246
+#EXTINF:-1  group-title="Региональные" tvg-id="",ТНВ-Планета (Казань)
+http://192.168.0.105:9098/InternationalID=7247
+#EXTINF:-1  group-title="Региональные" tvg-id="",Шаян
+http://192.168.0.105:9098/InternationalID=7248
+#EXTINF:-1  group-title="Познавательные" tvg-id="",HD Media
+http://192.168.0.105:9098/InternationalID=7249
+#EXTINF:-1  group-title="Познавательные" tvg-id="",Joy Cook
+http://192.168.0.105:9098/InternationalID=7250
+#EXTINF:-1  group-title="Познавательные" tvg-id="",Luxury
+http://192.168.0.105:9098/InternationalID=7251
+#EXTINF:-1  group-title="Познавательные" tvg-id="",RT Doc HD
+http://192.168.0.105:9098/InternationalID=7252
+#EXTINF:-1  group-title="Познавательные" tvg-id="",Нано
+http://192.168.0.105:9098/InternationalID=7253
+#EXTINF:-1  group-title="Познавательные" tvg-id="",Неизвестная планета
+http://192.168.0.105:9098/InternationalID=7254
+#EXTINF:-1  group-title="Познавательные" tvg-id="",Патриот
+http://192.168.0.105:9098/InternationalID=7255
+#EXTINF:-1  group-title="Познавательные" tvg-id="",Терра Инкогнита
+http://192.168.0.105:9098/InternationalID=7256
+#EXTINF:-1  group-title="Познавательные" tvg-id="",Точка ТВ
+http://192.168.0.105:9098/InternationalID=7257
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",Карусель (+2)
+http://192.168.0.105:9098/InternationalID=7258
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",Карусель (+4)
+http://192.168.0.105:9098/InternationalID=7259
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",Карусель (+6)
+http://192.168.0.105:9098/InternationalID=7260
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",НТВ (+2)
+http://192.168.0.105:9098/InternationalID=7261
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",НТВ (+4)
+http://192.168.0.105:9098/InternationalID=7262
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",НТВ (+6)
+http://192.168.0.105:9098/InternationalID=7263
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",Первый (+2)
+http://192.168.0.105:9098/InternationalID=7264
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",Первый (+4)
+http://192.168.0.105:9098/InternationalID=7265
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",Первый (+6)
+http://192.168.0.105:9098/InternationalID=7266
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",Пятница (+2)
+http://192.168.0.105:9098/InternationalID=7267
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",Пятница (+4)
+http://192.168.0.105:9098/InternationalID=7268
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",Пятница (+6)
+http://192.168.0.105:9098/InternationalID=7269
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",РЕН ТВ (+2)
+http://192.168.0.105:9098/InternationalID=7270
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",РЕН ТВ (+4)
+http://192.168.0.105:9098/InternationalID=7271
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",РЕН ТВ (+6)
+http://192.168.0.105:9098/InternationalID=7272
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",Россия 1 (+2)
+http://192.168.0.105:9098/InternationalID=7273
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",Россия 1 (+4)
+http://192.168.0.105:9098/InternationalID=7274
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",Россия 1 (+6)
+http://192.168.0.105:9098/InternationalID=7275
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",СТС (+2)
+http://192.168.0.105:9098/InternationalID=7276
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",СТС (+4)
+http://192.168.0.105:9098/InternationalID=7277
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",СТС (+6)
+http://192.168.0.105:9098/InternationalID=7278
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",ТВ 3 (+2)
+http://192.168.0.105:9098/InternationalID=7279
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",ТВ 3 (+4)
+http://192.168.0.105:9098/InternationalID=7280
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",ТВ 3 (+6)
+http://192.168.0.105:9098/InternationalID=7281
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",ТНТ (+2)
+http://192.168.0.105:9098/InternationalID=7282
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",ТНТ (+4)
+http://192.168.0.105:9098/InternationalID=7283
+#EXTINF:-1  group-title="Федеральные +" tvg-id="",ТНТ (+6)
+http://192.168.0.105:9098/InternationalID=7284
