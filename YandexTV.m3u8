@@ -1,0 +1,513 @@
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG" cache=500 deinterlace=1 aspect-ratio=16:9 audio-track=ru m3uautoload=1
+#EXTINF:-1 tvg-logo="http://host.denms.ru/images/denmsiptv.jpg",-yandexTV 18.11 01:12 http://denms.ru каналов 255 
+http://host.denms.ru/images/iptv.mp4
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",LUXURY
+https://strm.yandex.ru/kal/luxuryhd/ysign1=326a0e9ec1bae6fb7e1db809a818ec929324f08016420349a86961259b0cee3e,from=unknown,pfx,sfx,ts=5fc13cc6/luxuryhd0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",SOS Матросу
+https://strm.yandex.ru/kal/sosmatrosu/ysign1=1df8d599aa30faa81191cc5c2dcadb6429e83600dcc4c156ff9ef7df8b91aa6b,from=unknown,pfx,sfx,ts=5fc13cc6/sosmatrosu0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",YaC on Education
+https://strm.yandex.ru/kal/yac_on_education_stream/ysign1=10d05e89881035a036a54a5f30dd302418d1a7e7e31c7871424f0d59cbfd2b24,from=unknown,pfx,sfx,ts=5fc13cc6/yac_on_education_stream0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Авторадио - прямой эфир
+https://strm.yandex.ru/kal/avtoradioonline/ysign1=cd0307c144d90cfe6b75c0139ba3e2ee2198659dab26024d280c15a4ee30453d,from=unknown,pfx,sfx,ts=5fc13cc6/avtoradioonline0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Волга
+https://strm.yandex.ru/kal/volga/ysign1=6ae3f478f228dec78782326a1224c924f5f746c14da0e8be5a146895e7a8fde3,from=unknown,pfx,sfx,ts=5fc13cc6/volga0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Инфо24
+https://strm.yandex.ru/kal/shadrinfo/ysign1=aa417515367ec70597f7a8988e835614281cdf7d775a0f6dc137c372c4886340,from=unknown,pfx,sfx,ts=5fc13cc6/shadrinfo0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Лекции биеннале современного искусства 
+https://strm.yandex.ru/kal/biennale/ysign1=a5cb3d075c1e4bb9eec8e6f23eda5c8a79632b47993b16fc01b1c3b9e2a6e7db,from=unknown,pfx,sfx,ts=5fc13cc6/biennale0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Нашествие - Главная сцена_дубль-НЕ ИСПОЛЬЗУЕМ
+https://strm.yandex.ru/kal/nashestvie_double/ysign1=5475b5c583fb959a243c825ab52e1e9158c282c302dc202ce9a024739a5f0508,from=unknown,pfx,sfx,ts=5fc13cc6/nashestvie_double0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",НХЛ - 720р
+https://strm.yandex.ru/kal/nhl_channel1_720p/ysign1=2979f59c31ccc822dc8c02b59c174d2e3a8bbdd62203f3939c04d656fd460e5c,from=unknown,pfx,sfx,ts=5fc13cc6/nhl_channel1_720p0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",НХЛ - Длинный контент
+https://strm.yandex.ru/kal/nhl_fake_1/ysign1=103f5d77093f9af86d96733cd4178dca59ae8722d3382ccbd40f969b13181d2e,from=unknown,pfx,sfx,ts=5fc13cc6/nhl_fake_10.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Парад Победы – Белогорск, Новороссийск, Калининград
+https://strm.yandex.ru/kal/9may_5line/ysign1=be6cfc3f20dc7dd619138a81e04fd4905d046bcdf48f560956b32b3e92042a95,from=unknown,pfx,sfx,ts=5fc13cc6/9may_5line0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Парад Победы – Владивосток, Самара
+https://strm.yandex.ru/kal/9may_1line/ysign1=b887ba2d845eb79ad2392b80bb663a364836d856219032e34d82bc582c9d234f,from=unknown,pfx,sfx,ts=5fc13cc6/9may_1line0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Парад Победы – Екатеринбург, Нижний Новгород
+https://strm.yandex.ru/kal/9may_4line/ysign1=db47285829cae933cba7c15ce768c8200593943ce43a5ba7dde640e29c796068,from=unknown,pfx,sfx,ts=5fc13cc6/9may_4line0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Парад Победы – Новосибирск, Ростов-на-Дону
+https://strm.yandex.ru/kal/9may_6line/ysign1=c525e0621e7a3242f1d006bafff3a7438304922b512394d71da2dc9b73306acb,from=unknown,pfx,sfx,ts=5fc13cc6/9may_6line0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Парад Победы – Санкт-Петербург
+https://strm.yandex.ru/kal/9may_11line/ysign1=2a382237cd5a018b2986ebea6789b8ba1bb15b35cff2f32d4fc15ddd47d17546,from=unknown,pfx,sfx,ts=5fc13cc6/9may_11line0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Парад Победы – Уссурийск, Севастополь
+https://strm.yandex.ru/kal/9may_3line/ysign1=b21a3c431ed9194b55e74bd3852964e252ffd7d335c3791ec015bf104d61bb35,from=unknown,pfx,sfx,ts=5fc13cc6/9may_3line0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Парад Победы – Хабаровск и Мурманск
+https://strm.yandex.ru/kal/9may_2line/ysign1=b08d3d7f84aef2cf95e60e6d4137ec56c445869a6c2b99379a8f8919e0948e00,from=unknown,pfx,sfx,ts=5fc13cc6/9may_2line0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Парад Победы - Южно-Сахалинск
+https://strm.yandex.ru/kal/9may_r24/ysign1=1a9a2e8f08e6db143254d80f6c99d3c0759697a8d8a45dab94ca53e7f217c151,from=unknown,pfx,sfx,ts=5fc13cc6/9may_r240.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Парад Победы
+https://strm.yandex.ru/kal/9may_moscow/ysign1=88615c0488873ef2478a31a0221c4d68dec247074646230864d1c2da95041e8e,from=unknown,pfx,sfx,ts=5fc13cc6/9may_moscow0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Архангельск
+https://strm.yandex.ru/kal/weather_arkhangelsk/ysign1=08ab17e64e2eed8da0c93a023ef0434b16879a4e8f6089500df1a0a2064aa693,from=unknown,pfx,sfx,ts=5fc13cc6/weather_arkhangelsk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Астрахань
+https://strm.yandex.ru/kal/weather_astrakhan/ysign1=a0882893024a77066749e6d78702704e39c206cbeb987f9797081f1429fd38cb,from=unknown,pfx,sfx,ts=5fc13cc6/weather_astrakhan0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Белгород
+https://strm.yandex.ru/kal/weather_belgorod/ysign1=ff3c3cbaaeeee4032a977df8efc005872510ec379c78cc095ec5b16dd8fa4a91,from=unknown,pfx,sfx,ts=5fc13cc6/weather_belgorod0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Берлин
+https://strm.yandex.ru/kal/weather_berlin/ysign1=99f13b2eb699ad0f6d8b0f3469cc0cbb6bf244443bd630b59adbc6d534215749,from=unknown,pfx,sfx,ts=5fc13cc6/weather_berlin0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Биробиджан
+https://strm.yandex.ru/kal/weather_birobidzhan/ysign1=0e4550a1a31d1d91b113ad5755e26faca94dcef60a915181946dc2bbb3b30a2b,from=unknown,pfx,sfx,ts=5fc13cc6/weather_birobidzhan0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Благовещенск
+https://strm.yandex.ru/kal/weather_blagoveshchensk/ysign1=da682bd19c1bc83f7e3610e72fe9c4d02ca6f58e0de0056944f1c986d87b0486,from=unknown,pfx,sfx,ts=5fc13cc6/weather_blagoveshchensk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Брянск
+https://strm.yandex.ru/kal/weather_bryansk/ysign1=2d5a431635a8e07f31352f9f3e78d2fd15d99dc6de8bae06548ea859e50f3903,from=unknown,pfx,sfx,ts=5fc13cc6/weather_bryansk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Великий Новгород
+https://strm.yandex.ru/kal/weather_vnovgorod/ysign1=0e31579582b0479673d5c89a96ce2e43c9e13c65fb5e7080b630640020f22cf1,from=unknown,pfx,sfx,ts=5fc13cc6/weather_vnovgorod0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Владикавказ
+https://strm.yandex.ru/kal/weather_vladikavkaz/ysign1=b6c206c445c6442f97310b0fadfe3e588f420f5b73bcaf559986c68c09a8657e,from=unknown,pfx,sfx,ts=5fc13cc6/weather_vladikavkaz0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Владимир
+https://strm.yandex.ru/kal/weather_vladimir/ysign1=a50decb97580865abca975ccc13e60eaa68116a6dcf564acf11de4a6b1649010,from=unknown,pfx,sfx,ts=5fc13cc6/weather_vladimir0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Иваново
+https://strm.yandex.ru/kal/weather_ivanovo/ysign1=0a79035dce387a0e310b00e11739aecade7d91be12c994791edc2f1c9066e225,from=unknown,pfx,sfx,ts=5fc13cc6/weather_ivanovo0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Ижевск
+https://strm.yandex.ru/kal/weather_izhevsk/ysign1=5b505d570a77403ac256533b2aabb94c1bfbcf2359df59d00df10acb0a6894f8,from=unknown,pfx,sfx,ts=5fc13cc6/weather_izhevsk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Иркутск
+https://strm.yandex.ru/kal/weather_irkutsk/ysign1=6553ce8b2ea099b663356468f344d2e168b31b1dfb6df86a0a82f7102238baa6,from=unknown,pfx,sfx,ts=5fc13cc6/weather_irkutsk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Калуга
+https://strm.yandex.ru/kal/weather_kaluga/ysign1=5c2442869f1a14a21a094b53b949625b776973fe3542b16e38adc05e7a2edc3f,from=unknown,pfx,sfx,ts=5fc13cc6/weather_kaluga0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Кемерово
+https://strm.yandex.ru/kal/weather_kemerovo/ysign1=deacfe8a74463507a70693f26081583d14c53def4a66ac11ed9d68c515cb4ecf,from=unknown,pfx,sfx,ts=5fc13cc6/weather_kemerovo0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Киров
+https://strm.yandex.ru/kal/weather_kirov/ysign1=2e8bc383cfe9685aa964c6d37cb03d484eef313f1c32d8a194264d3cb1c7c7cf,from=unknown,pfx,sfx,ts=5fc13cc6/weather_kirov0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Кострома
+https://strm.yandex.ru/kal/weather_kostroma/ysign1=1115265bf9d79cc2b49f923f263af256da300949d286fe69e4ada5c5e4ff0490,from=unknown,pfx,sfx,ts=5fc13cc6/weather_kostroma0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Курган
+https://strm.yandex.ru/kal/weather_kurgan/ysign1=d4f94dd35c8eac4c27133a5c3d4a29049de9894acb7eccba32f6c937ab3de13f,from=unknown,pfx,sfx,ts=5fc13cc6/weather_kurgan0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Курск
+https://strm.yandex.ru/kal/weather_kursk/ysign1=5bf36ff508227997dd212d5ff48c80c0c6d3ef6ce109272978dccf555e68f421,from=unknown,pfx,sfx,ts=5fc13cc6/weather_kursk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Липецк
+https://strm.yandex.ru/kal/weather_lipetsk/ysign1=604f2748a9a777fe68d64210648560240b02bae503e861b795ccedc079a91db1,from=unknown,pfx,sfx,ts=5fc13cc6/weather_lipetsk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Магадан
+https://strm.yandex.ru/kal/weather_magadan/ysign1=184612f2eeb741f40c2d391e3965ca5f9301c37143a9b2f11a24198108dbf8f5,from=unknown,pfx,sfx,ts=5fc13cc6/weather_magadan0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Майкоп
+https://strm.yandex.ru/kal/weather_maikop/ysign1=df54cd396e2ce93dce5faf84153dc744285bc29edf150ec411db2b1abf22f2c2,from=unknown,pfx,sfx,ts=5fc13cc6/weather_maikop0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Махачкала
+https://strm.yandex.ru/kal/weather_makhachkala/ysign1=a0eb13ed4fda3ed54600f979f26db5121fb24951d16f8353aee77c672eaea135,from=unknown,pfx,sfx,ts=5fc13cc6/weather_makhachkala0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Мурманск
+https://strm.yandex.ru/kal/weather_murmansk/ysign1=17b61636963451183a9ef774d55be8980bf2f80ecff2f8d1f36bd6688d74719b,from=unknown,pfx,sfx,ts=5fc13cc6/weather_murmansk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Нальчик
+https://strm.yandex.ru/kal/weather_nalchik/ysign1=83068c5fe6fc69042a6a60df6c30a940e866d476374c2fb1af989a9b5ab6dcec,from=unknown,pfx,sfx,ts=5fc13cc6/weather_nalchik0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Нарьян-Мар
+https://strm.yandex.ru/kal/weather_naryanmar/ysign1=43eedc6a5d5f377ac4f58fb19a24c5fca2ef3b6377f7452c25e33c7d688368a5,from=unknown,pfx,sfx,ts=5fc13cc6/weather_naryanmar0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Орел
+https://strm.yandex.ru/kal/weather_orel/ysign1=defb31b468ecb1a5d4bdc47b0bcc1d1bf7431fb281333bde5f41bad207d8b6d6,from=unknown,pfx,sfx,ts=5fc13cc6/weather_orel0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Оренбург
+https://strm.yandex.ru/kal/weather_orenburg/ysign1=b1a828579fcbbd30a5ea8d6157ace9f9719929511c428844ee7d21ce1cbd4885,from=unknown,pfx,sfx,ts=5fc13cc6/weather_orenburg0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Пенза
+https://strm.yandex.ru/kal/weather_penza/ysign1=a877db6941cf2082d486b4257ec485cc2061bc55bf3b9e402eeaa4d81162fdc5,from=unknown,pfx,sfx,ts=5fc13cc6/weather_penza0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Петрозаводск
+https://strm.yandex.ru/kal/weather_petrozavodsk/ysign1=7c9e8381f026eac32bfe78432b8cac0a9ec8bf216b62478f832161873723f901,from=unknown,pfx,sfx,ts=5fc13cc6/weather_petrozavodsk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Петропавловск-Камчатский
+https://strm.yandex.ru/kal/weather_kamchatka/ysign1=84db150fa9a9bf715a1614d6ba53bfaa89536f582eafb7e5cd32d7def387e36c,from=unknown,pfx,sfx,ts=5fc13cc6/weather_kamchatka0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Псков
+https://strm.yandex.ru/kal/weather_pskov/ysign1=584ced227b544052da3490316cf5b6ffe5d6e913589dea7ccfe2074b0a4b18e7,from=unknown,pfx,sfx,ts=5fc13cc6/weather_pskov0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Рязань
+https://strm.yandex.ru/kal/weather_ryazan/ysign1=ee9b56d9e617a7bc9f0747b6bb6e81b41ba1353a5ccce08c68c89755ced7c06e,from=unknown,pfx,sfx,ts=5fc13cc6/weather_ryazan0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Салехард
+https://strm.yandex.ru/kal/weather_salekhard/ysign1=9953b62e49d550cbbc93c56e12b61d137b987443ada484a86e2da5c3aeba7b8d,from=unknown,pfx,sfx,ts=5fc13cc6/weather_salekhard0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Санкт-Петербург_Добролюбова
+https://strm.yandex.ru/kal/weather_saint_petersburg2/ysign1=01028bc381af82c9bcfb02bcc3bd1afaf950e96bd3fcfe07c7268f78de7b0abe,from=unknown,pfx,sfx,ts=5fc13cc6/weather_saint_petersburg20.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Саранск
+https://strm.yandex.ru/kal/weather_saransk/ysign1=b6832b026b74e323b4baa46612de22db970f819add3dd3e5b623e576cad268e9,from=unknown,pfx,sfx,ts=5fc13cc6/weather_saransk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Саратов
+https://strm.yandex.ru/kal/weather_saratov/ysign1=8ef65eaf73a9685e3cba5959833d6b52b4fbe5979670687617186a9ea30ddf70,from=unknown,pfx,sfx,ts=5fc13cc6/weather_saratov0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Смоленск
+https://strm.yandex.ru/kal/weather_smolensk/ysign1=25442dedd3561dced9be9215f988231ff14ddfa6a906d44d733d1a777f0c2c0f,from=unknown,pfx,sfx,ts=5fc13cc6/weather_smolensk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Сыктывкар
+https://strm.yandex.ru/kal/weather_siktivkar/ysign1=0784d149e7872e9852661439cdf5e0feb55e3a12b63d4bb8369c12874fefa12c,from=unknown,pfx,sfx,ts=5fc13cc6/weather_siktivkar0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Тамбов
+https://strm.yandex.ru/kal/weather_tambov/ysign1=95b3fea68a2a1f2fb4844664e6db003dc2d5601268d8c6def5e74462fac110a7,from=unknown,pfx,sfx,ts=5fc13cc6/weather_tambov0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Тверь
+https://strm.yandex.ru/kal/weather_tver/ysign1=8a187587bb26f15a65bedc975d92dd5623e3c16635c0b4b0c91b3815de0d8e2c,from=unknown,pfx,sfx,ts=5fc13cc6/weather_tver0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Томск
+https://strm.yandex.ru/kal/weather_tomsk2/ysign1=b113258b0385262a6246a6fea5d1697fabd19842d5c466f1defee9d73015cbfe,from=unknown,pfx,sfx,ts=5fc13cc6/weather_tomsk20.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Тула
+https://strm.yandex.ru/kal/weather_tula/ysign1=702536ec0a7395a39d7d8643268aaba14a1eff37048fb4682c0acf7ffce7a767,from=unknown,pfx,sfx,ts=5fc13cc6/weather_tula0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Улан-Удэ
+https://strm.yandex.ru/kal/weather_ulanude/ysign1=8bacee48b5b30d8e76f4c90d390796a97d5b881201057f4e1aa1145acc52bc7b,from=unknown,pfx,sfx,ts=5fc13cc6/weather_ulanude0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Ханты-Мансийск
+https://strm.yandex.ru/kal/weather_khanty/ysign1=109f93b5524153c960f5100fc2c29940472877b9d602a119afadd180189088e4,from=unknown,pfx,sfx,ts=5fc13cc6/weather_khanty0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Чебоксары
+https://strm.yandex.ru/kal/weather_cheboksary/ysign1=1e79f3ed9443783dc772dac5ef7b40b4a44a311eede19d8d28949c6da8f6cf22,from=unknown,pfx,sfx,ts=5fc13cc6/weather_cheboksary0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Черкесск
+https://strm.yandex.ru/kal/weather_cherkessk/ysign1=495b11b7a0ae128c2658f20a5c7e6e0284a7e99ab37d28b77e5cab439e765114,from=unknown,pfx,sfx,ts=5fc13cc6/weather_cherkessk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Чита
+https://strm.yandex.ru/kal/weather_chita/ysign1=b1502f8abe0fbff2efda9a9e4278f00c04ac491c651eacc2ea64bfaf0832fd33,from=unknown,pfx,sfx,ts=5fc13cc6/weather_chita0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Шерегеш
+https://strm.yandex.ru/kal/weather_sheregesh/ysign1=2c3c3b4f3dd06be8d97fda951aa68a87cc367a4190a7e309bc56aff7978171dc,from=unknown,pfx,sfx,ts=5fc13cc6/weather_sheregesh0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Элиста
+https://strm.yandex.ru/kal/weather_elista/ysign1=102fa1028330e4647559f0688f8f47b25ce0cb8a4dd3ac087a60f5258747626d,from=unknown,pfx,sfx,ts=5fc13cc6/weather_elista0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Южно-Сахалинск
+https://strm.yandex.ru/kal/weather_ujnosachalinsk/ysign1=3dbe2d1774b8ec0dc65cfa47ef270a6c4fadc02c959cb889bfcec6c9cfd8de7f,from=unknown,pfx,sfx,ts=5fc13cc6/weather_ujnosachalinsk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Якутск
+https://strm.yandex.ru/kal/weather_yakutsk/ysign1=cfabd7414876c9a8418e74d0d30cabae68f7f79d5c2a6c8dcafb0fa17b569c76,from=unknown,pfx,sfx,ts=5fc13cc6/weather_yakutsk0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Погода Ярославль
+https://strm.yandex.ru/kal/weather_yaroslavl/ysign1=c6783b64844f7d9581bcce640e106f5865024d85badccbef19601029bc1819e5,from=unknown,pfx,sfx,ts=5fc13cc6/weather_yaroslavl0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Прямая речь
+https://strm.yandex.ru/kal/pryamaya/ysign1=c4a4c4a0e1ae5af09300153878c426f4cee23f5575468e54288eed3e89599d88,from=unknown,pfx,sfx,ts=5fc13cc6/pryamaya0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Трансляции
+https://strm.yandex.ru/kal/broadcasts/ysign1=086a9dc77c0d99fba5ce0f46dcf7af7a8b26ecff2f734fa625a8dbe787e6d324,from=unknown,pfx,sfx,ts=5fc13cc6/broadcasts0.m3u8
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",ФНЛ - 11 поток
+https://strm.yandex.ru/kal/fnl_input_12/ysign1=f161e65a4f366cb6f003a17c0d1256d2066dd270ae9e429bb022610dede43a2a,from=unknown,pfx,sfx,ts=5fc13cc6/fnl_input_120.m3u8
+#EXTINF:-1 group-title="Детские",Любимое ТВ
+https://strm.yandex.ru/kal/lovedtv/ysign1=02d31f8218762f2c73f225c90b6f52ec8546e671f81966690fa17977814d0920,from=unknown,pfx,sfx,ts=5fc13cc6/lovedtv0.m3u8
+#EXTINF:-1 group-title="Детские",Сказки зайки
+https://strm.yandex.ru/kal/skazkizayki/ysign1=68a293fc177c4d5fa45b33b8d3678d6db20ed84d931de04ea6b03fcf77c66228,from=unknown,pfx,sfx,ts=5fc13cc6/skazkizayki0.m3u8
+#EXTINF:-1 group-title="Детские",Смайлик
+https://strm.yandex.ru/kal/smilik/ysign1=c1ab1cccb993bc1d17a42a4479b366e20059be4d692f57b3f184df71c1deb28a,from=unknown,pfx,sfx,ts=5fc13cc6/smilik0.m3u8
+#EXTINF:-1 group-title="Мужское",Диалоги о рыбалке
+https://strm.yandex.ru/kal/dialogi/ysign1=3132b2d4f032eb9df8a2a04ffcf4b1a254473aa54ad12a8ad751e5ea0d30e10f,from=unknown,pfx,sfx,ts=5fc13cc6/dialogi0.m3u8
+#EXTINF:-1 group-title="Мужское",Охотник и Рыболов int
+https://strm.yandex.ru/kal/ohotnik/ysign1=ed64fca97a7fa2ef2670b9470aa6dbca12e6a24bf1320b289e0ca34dd353442d,from=unknown,pfx,sfx,ts=5fc13cc6/ohotnik0.m3u8
+#EXTINF:-1 group-title="Музыка",1HD
+https://strm.yandex.ru/kal/1hd_stereo/ysign1=8ea14e36c1382ef1a308d4a71d5156743ea9ed140de41de5ae1a2c4ed3f99682,from=unknown,pfx,sfx,ts=5fc13cc6/1hd_stereo0.m3u8
+#EXTINF:-1 group-title="Музыка",AIVA
+https://strm.yandex.ru/kal/aiva/ysign1=6202042648b22e97e04e03e393380b92568d2f3705930a2c00542af3a76c2760,from=unknown,pfx,sfx,ts=5fc13cc6/aiva0.m3u8
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
+https://strm.yandex.ru/kal/europaplus/ysign1=acd9e895b5555f0220153ad8d4d9a42253a8d521a14e0eab8dc11983c17dd75a,from=unknown,pfx,sfx,ts=5fc13cc6/europaplus0.m3u8
+#EXTINF:-1 group-title="Музыка",FreshTV
+https://strm.yandex.ru/kal/fresh/ysign1=8c77903b8d1713750efec5317f8480495b52e8651354e606f781228092c1ec7e,from=unknown,pfx,sfx,ts=5fc13cc6/fresh0.m3u8
+#EXTINF:-1 group-title="Музыка",HITV
+https://strm.yandex.ru/kal/hittv/ysign1=058476af1d9b89e192e79f859c19f0f0eeb8168d1be0639c2d4c6b6c9d96ac1e,from=unknown,pfx,sfx,ts=5fc13cc6/hittv0.m3u8
+#EXTINF:-1 group-title="Музыка",Music Box Gold
+https://strm.yandex.ru/kal/musicboxgold/ysign1=30d7d3e732f17d2c493310bb44e7022ca6a47100f098b2385b29fb2fd83bfaa6,from=unknown,pfx,sfx,ts=5fc13cc6/musicboxgold0.m3u8
+#EXTINF:-1 group-title="Музыка",RU.TV
+https://strm.yandex.ru/kal/rutv_cv/ysign1=35887a64de5e163639b0148a55ea3313a5b473d1c86d27822cbeb72d11a3cb37,from=unknown,pfx,sfx,ts=5fc13cc6/rutv_cv0.m3u8
+#EXTINF:-1 group-title="Музыка",Russian Music Box
+https://strm.yandex.ru/kal/rmbox/ysign1=a3002bd9815d6fdf5b03ed7f6516b919f71052f5a1218bba42e07290f31d831b,from=unknown,pfx,sfx,ts=5fc13cc6/rmbox0.m3u8
+#EXTINF:-1 group-title="Музыка",Жар Птица
+https://strm.yandex.ru/kal/firebird/ysign1=4239df88fcd68de60bc603c265284ad75c7d169de6e9076bc9af70e0bb4e9e26,from=unknown,pfx,sfx,ts=5fc13cc6/firebird0.m3u8
+#EXTINF:-1 group-title="Музыка",Матур ТВ
+https://strm.yandex.ru/kal/matur/ysign1=0233b472d94a78c8b48d35932544cc622bc524277801a3c8a8fefb4ccea372fd,from=unknown,pfx,sfx,ts=5fc13cc6/matur0.m3u8
+#EXTINF:-1 group-title="Музыка",МУЗ-ТВ
+https://strm.yandex.ru/kal/muztv_supres/ysign1=7d7d41cce470ed5e74a10da17556904ddcf3347c24e424abf44be29cdc9bcc42,from=unknown,pfx,sfx,ts=5fc13cc6/muztv_supres0.m3u8
+#EXTINF:-1 group-title="Музыка",Новое Радио
+https://strm.yandex.ru/kal/nasheradio/ysign1=384ba070579a201a88eff1d445241149821478f1f387157289d8a9fe8424ec7d,from=unknown,pfx,sfx,ts=5fc13cc6/nasheradio0.m3u8
+#EXTINF:-1 group-title="Музыка",О2ТВ
+https://strm.yandex.ru/kal/o2/ysign1=cbcf0497d7dfe5bc47a02f1abb234af94ef1a718b7a4340ba2422ba9f83830b9,from=unknown,pfx,sfx,ts=5fc13cc6/o20.m3u8
+#EXTINF:-1 group-title="Музыка",Страна FM
+https://strm.yandex.ru/kal/srtranafm/ysign1=8a1f08d7b2718f573d40578ab05b00adb7b7f77bd64c365cf987bd1d55becbbb,from=unknown,pfx,sfx,ts=5fc13cc6/srtranafm0.m3u8
+#EXTINF:-1 group-title="Музыка",ТНТ Music
+https://strm.yandex.ru/kal/tntmusic/ysign1=9c8a2511bb40c3bbfdb704b8ffffd61a287f5d58aa82010170f12ea34e6447d4,from=unknown,pfx,sfx,ts=5fc13cc6/tntmusic0.m3u8
+#EXTINF:-1 group-title="Новости",360° Новости
+https://strm.yandex.ru/kal/360news_supres/ysign1=08c207c8db69b063aa031146256507895070dd1641c46cfaeb0e8c7eb0258d81,from=unknown,pfx,sfx,ts=5fc13cc6/360news_supres0.m3u8
+#EXTINF:-1 group-title="Новости",CHINA TV
+https://strm.yandex.ru/kal/chinatv/ysign1=becc56dab8c8e0d27fed98ad5f6a1164815d759b99da8d2184ebae0adb8341cb,from=unknown,pfx,sfx,ts=5fc13cc6/chinatv0.m3u8
+#EXTINF:-1 group-title="Новости",Deutsche Welle
+https://strm.yandex.ru/kal/dw/ysign1=778b89aec89f5596d1785946cba4c98af2dc2d573fb02738775fdcc1fc3c65b5,from=unknown,pfx,sfx,ts=5fc13cc6/dw0.m3u8
+#EXTINF:-1 group-title="Новости",France 24
+https://strm.yandex.ru/kal/france24/ysign1=d3bb9cb9e5fdcb044a67e6c5e1301d0ac523c996f6f400a18dc81f819b7994fd,from=unknown,pfx,sfx,ts=5fc13cc6/france240.m3u8
+#EXTINF:-1 group-title="Новости",PRO Business
+https://strm.yandex.ru/kal/probusiness_cv/ysign1=9a91e670c5a2241016571708153fe3a113b23282da5b029b841ef6d21a0383c0,from=unknown,pfx,sfx,ts=5fc13cc6/probusiness_cv0.m3u8
+#EXTINF:-1 group-title="Новости",RT
+https://strm.yandex.ru/kal/rt_hd/ysign1=df92f16e467e8ea8cbdc10b96c9fca7338f7da2c999c300ed3484d142a79ac0e,from=unknown,pfx,sfx,ts=5fc13cc6/rt_hd0.m3u8
+#EXTINF:-1 group-title="Новости",WION
+https://strm.yandex.ru/kal/wion/ysign1=e48240a84768872e5bf3e5b3afcf13987006b9396fbddb4965a907e5130b7122,from=unknown,pfx,sfx,ts=5fc13cc6/wion0.m3u8
+#EXTINF:-1 group-title="Новости",Вечерняя Москва
+https://strm.yandex.ru/kal/vmru/ysign1=2bf19314ddd120f1f9e25ef9abc7eccd3a268cc7820f439de1970b076e79a3a6,from=unknown,pfx,sfx,ts=5fc13cc6/vmru0.m3u8
+#EXTINF:-1 group-title="Новости",Вместе-РФ
+https://strm.yandex.ru/kal/vmeste_rf/ysign1=9c500280a0582eee5d7b479765809aca9ef562222f95df23d34966c91dfe41cb,from=unknown,pfx,sfx,ts=5fc13cc6/vmeste_rf0.m3u8
+#EXTINF:-1 group-title="Новости",Дождь
+https://strm.yandex.ru/kal/tvrain/ysign1=7fd6750c2aeb7274485580893112a902f09c421cf91a6f221a67250584928e43,from=unknown,pfx,sfx,ts=5fc13cc6/tvrain0.m3u8
+#EXTINF:-1 group-title="Новости",Евроновости
+https://strm.yandex.ru/kal/euronews_supres/ysign1=5fd50c83be021d3e86215b491f32440e9bb7b71120583df52598b416ed09b17b,from=unknown,pfx,sfx,ts=5fc13cc6/euronews_supres0.m3u8
+#EXTINF:-1 group-title="Новости",МИР24
+https://strm.yandex.ru/kal/mir24/ysign1=198c47f5512f743eeb9723e48869c397f315187386c40dd628b8f01ded519c97,from=unknown,pfx,sfx,ts=5fc13cc6/mir240.m3u8
+#EXTINF:-1 group-title="Новости",Москва 24
+https://strm.yandex.ru/kal/msk24_supres/ysign1=2ce9c87ca124a91c8808179280aa2933eae363b9d7122bc6445d256a8e57b1e0,from=unknown,pfx,sfx,ts=5fc13cc6/msk24_supres0.m3u8
+#EXTINF:-1 group-title="Новости",РБК
+https://strm.yandex.ru/kal/rbc_supres/ysign1=df94f66a768281414b5f2baaabaeaceb0a674d91c44bf57285589ba8d3e12726,from=unknown,pfx,sfx,ts=5fc13cc6/rbc_supres0.m3u8
+#EXTINF:-1 group-title="Новости",Царьград ТВ
+https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
+#EXTINF:-1 group-title="Новости",Эхо Москвы
+https://strm.yandex.ru/kal/echomoscow_supres/ysign1=8010f467633e50e42c95cd17c97a2f4558d3239496a20a429651c63598ea74fe,from=unknown,pfx,sfx,ts=5fc13cc6/echomoscow_supres0.m3u8
+#EXTINF:-1 group-title="Познавательные",HD Медиа
+https://strm.yandex.ru/kal/hdmedia/ysign1=ff6e2c440c1067cba3cfbc06ed91d5d531d50329bca001ff6a28d2c4653c7b5e,from=unknown,pfx,sfx,ts=5fc13cc6/hdmedia0.m3u8
+#EXTINF:-1 group-title="Познавательные",RTG HD
+https://strm.yandex.ru/kal/rtg/ysign1=89adaf040f267440642d0181837de92f1917b24061f8fc3956eb18890fd57a22,from=unknown,pfx,sfx,ts=5fc13cc6/rtg0.m3u8
+#EXTINF:-1 group-title="Познавательные",RTД
+https://strm.yandex.ru/kal/rtd_hd/ysign1=368b135db2fa8137c31f5506c368161a915dd3018454438d5825ff18a639c802,from=unknown,pfx,sfx,ts=5fc13cc6/rtd_hd0.m3u8
+#EXTINF:-1 group-title="Познавательные",Univer TV
+https://strm.yandex.ru/kal/univer/ysign1=0f4aede207322cdcf331d6117ad7dfa65130a707f26f4385401c64f5eac3bc64,from=unknown,pfx,sfx,ts=5fc13cc6/univer0.m3u8
+#EXTINF:-1 group-title="Познавательные",Большая Азия
+https://strm.yandex.ru/kal/bigasia/ysign1=432c702f63c498991cec660dbafdeddc80ffe5cf463061bb247f51d756d32324,from=unknown,pfx,sfx,ts=5fc13cc6/bigasia0.m3u8
+#EXTINF:-1 group-title="Познавательные",Дайвинг TV
+https://strm.yandex.ru/kal/diving/ysign1=692b245167764f614bdb3c4c4c4266fbc7659defaac2bc8ad5357adb898bf337,from=unknown,pfx,sfx,ts=5fc13cc6/diving0.m3u8
+#EXTINF:-1 group-title="Познавательные",ЕГЭ ТВ
+https://strm.yandex.ru/kal/egetv/ysign1=64e6a264856abaab4129c11fec4432904894e925993a1fd707330c906de04f37,from=unknown,pfx,sfx,ts=5fc13cc6/egetv0.m3u8
+#EXTINF:-1 group-title="Познавательные",Загородный int
+https://strm.yandex.ru/kal/zagorod/ysign1=773b8d4997c0674eada905bc5c085ec347c529bfebc95d1c76ff692237d70a5f,from=unknown,pfx,sfx,ts=5fc13cc6/zagorod0.m3u8
+#EXTINF:-1 group-title="Познавательные",Мир вокруг
+https://strm.yandex.ru/kal/mitvokrug/ysign1=2c65a47c94c39ef9fdcaadc6c3fa924da07fa4eebf225b5f412a3a8d44e68893,from=unknown,pfx,sfx,ts=5fc13cc6/mitvokrug0.m3u8
+#EXTINF:-1 group-title="Познавательные",Мир Увлечений
+https://strm.yandex.ru/kal/hobbyworld/ysign1=c5c11ea50f396b4b0962ab71bad32d9cb16bb09f1974860bbe8348edb7dc618b,from=unknown,pfx,sfx,ts=5fc13cc6/hobbyworld0.m3u8
+#EXTINF:-1 group-title="Познавательные",Нано
+https://strm.yandex.ru/kal/nano/ysign1=734d9a071925451f41c350f4cafdcf026dac89c6bd682f4f44dc55b08c988cf1,from=unknown,pfx,sfx,ts=5fc13cc6/nano0.m3u8
+#EXTINF:-1 group-title="Познавательные",Неизвестная планета
+https://strm.yandex.ru/kal/unknownplanet_supres/ysign1=180d8b1f8bd2422cf5dbbb10823e6aef7bd51ef3cf5e6893260dba2322662b37,from=unknown,pfx,sfx,ts=5fc13cc6/unknownplanet_supres0.m3u8
+#EXTINF:-1 group-title="Познавательные",Открытый Мир
+https://strm.yandex.ru/kal/openworld/ysign1=bc5700fc90c4ab82dba30b079f65bdd72c252b15445e30036502326b6c380e67,from=unknown,pfx,sfx,ts=5fc13cc6/openworld0.m3u8
+#EXTINF:-1 group-title="Познавательные",Первый Вегетарианский
+https://strm.yandex.ru/kal/1vegetarian/ysign1=652cc9cd01c059ef648f6290ab1ab2f707b85d6f8f932efb0d59790b136c4a71,from=unknown,pfx,sfx,ts=5fc13cc6/1vegetarian0.m3u8
+#EXTINF:-1 group-title="Познавательные",Перпетуум мобиле
+https://strm.yandex.ru/kal/perpetuum/ysign1=4b40d1d8f88c0242b7aba2e910c3829db022c58d1d45aa2899080c4ae577b5cb,from=unknown,pfx,sfx,ts=5fc13cc6/perpetuum0.m3u8
+#EXTINF:-1 group-title="Познавательные",Пёс и Ко
+https://strm.yandex.ru/kal/pesiko/ysign1=2072f3fa73c62273c5a7ab6e49dc3d55a96a02f0a84286e2d465a2bc16b7d5c5,from=unknown,pfx,sfx,ts=5fc13cc6/pesiko0.m3u8
+#EXTINF:-1 group-title="Познавательные",Продвижение
+https://strm.yandex.ru/kal/prodvizheniye/ysign1=c71f5fdcffd2145a9a9582be55cdada99b700f7e72d29033a3e57250bb568ef0,from=unknown,pfx,sfx,ts=5fc13cc6/prodvizheniye0.m3u8
+#EXTINF:-1 group-title="Познавательные",Просвещение
+https://strm.yandex.ru/kal/prosveshenie/ysign1=909d6d8984110c98ab6757392363c91a190554a01e45685ef4da6b177f8cd7f2,from=unknown,pfx,sfx,ts=5fc13cc6/prosveshenie0.m3u8
+#EXTINF:-1 group-title="Познавательные",Путешествия + Приключения
+https://strm.yandex.ru/kal/smotripp_fake/ysign1=816caebacccddac4445eb7ad58b5e5299f04e13442db84821aa1a5ee30745203,from=unknown,pfx,sfx,ts=5fc13cc6/smotripp_fake0.m3u8
+#EXTINF:-1 group-title="Познавательные",Ратник
+https://strm.yandex.ru/kal/ratnik/ysign1=35027f7ebc6d583eb7a1919ef10badc44045fb4364efe8fe0091ac37fffae14d,from=unknown,pfx,sfx,ts=5fc13cc6/ratnik0.m3u8
+#EXTINF:-1 group-title="Познавательные",Совершенно секретно
+https://strm.yandex.ru/kal/sovsec_supres/ysign1=917d39785e99a177d4f279a183bebb1d92c90e9f3c8075a3fe80fedd7492857a,from=unknown,pfx,sfx,ts=5fc13cc6/sovsec_supres0.m3u8
+#EXTINF:-1 group-title="Познавательные",ТВ БРИКС
+https://strm.yandex.ru/kal/tvbrics/ysign1=ba6b0953eac2732d569689a462dba863ff6c00017d60ac49c6a7cdc0c746f702,from=unknown,pfx,sfx,ts=5fc13cc6/tvbrics0.m3u8
+#EXTINF:-1 group-title="Познавательные",ТВТУР
+https://strm.yandex.ru/kal/tvtour/ysign1=d5f31c89a8ef42bb60d08a174ebe7c6c9ae82a2acacc276cfa16d1235b55cc42,from=unknown,pfx,sfx,ts=5fc13cc6/tvtour0.m3u8
+#EXTINF:-1 group-title="Познавательные",Терра Инкогнита
+https://strm.yandex.ru/kal/terra/ysign1=afbb2c23a96e94d5f1fc69807f30fa8a974efb136b6520eae3c615070d50cccc,from=unknown,pfx,sfx,ts=5fc13cc6/terra0.m3u8
+#EXTINF:-1 group-title="Познавательные",Тномер
+https://strm.yandex.ru/kal/tnomer/ysign1=2d75af9f4af2e8a7baebd1fc848829062c55690c75952605fcf14f6cfb5029de,from=unknown,pfx,sfx,ts=5fc13cc6/tnomer0.m3u8
+#EXTINF:-1 group-title="Познавательные",Точка ТВ
+https://strm.yandex.ru/kal/tochkatv_cv/ysign1=1c0e5ff183e895c6d96992c7fa9cd8e534ce936ccdcb8bb8455648f5f401ff46,from=unknown,pfx,sfx,ts=5fc13cc6/tochkatv_cv0.m3u8
+#EXTINF:-1 group-title="Познавательные",Успех
+https://strm.yandex.ru/kal/uspehtv/ysign1=e78dff463707f2554521dc40d3b843cde2c000557c3266ee9cc52a751893796f,from=unknown,pfx,sfx,ts=5fc13cc6/uspehtv0.m3u8
+#EXTINF:-1 group-title="Познавательные",Центральное телевидение
+https://strm.yandex.ru/kal/ctv/ysign1=196d037d772e47fd7eb3ec185c6153396b27619c06672a0cae503aa03d5d66ed,from=unknown,pfx,sfx,ts=5fc13cc6/ctv0.m3u8
+#EXTINF:-1 group-title="Развлекательные",8 канал
+https://strm.yandex.ru/kal/8_channel/ysign1=9c3e7cbf100effe1964d5ac3b431c073362a95fb1893c706fc38cdc3d81e1ca9,from=unknown,pfx,sfx,ts=5fc13cc6/8_channel0.m3u8
+#EXTINF:-1 group-title="Развлекательные",KBS World
+https://strm.yandex.ru/kal/kbsrus/ysign1=57e164ccc23a750c64ae5ae7f3c9c272a740f34ae4b92d5d2c399c90e1987a7b,from=unknown,pfx,sfx,ts=5fc13cc6/kbsrus0.m3u8
+#EXTINF:-1 group-title="Развлекательные",TDK
+https://strm.yandex.ru/kal/tdk_supres/ysign1=cc92c38dade1d4a1b74e0916008e3f19b856bbd8c6a958b51ceb21a3d140920f,from=unknown,pfx,sfx,ts=5fc13cc6/tdk_supres0.m3u8
+#EXTINF:-1 group-title="Развлекательные",Девятая волна
+https://strm.yandex.ru/kal/acb/ysign1=58c7502287f2a310713f95a726a5ab6dcac0fdfab2c46d1c64031f3170c78b6e,from=unknown,pfx,sfx,ts=5fc13cc6/acb0.m3u8
+#EXTINF:-1 group-title="Развлекательные",О, Кино!
+https://strm.yandex.ru/kal/okino/ysign1=2ca3f557401071fcb97bd8b1f8d9bb9144696b02bbe8c97ae006be26fe3d2880,from=unknown,pfx,sfx,ts=5fc13cc6/okino0.m3u8
+#EXTINF:-1 group-title="Развлекательные",РАЗ
+https://strm.yandex.ru/kal/raztv/ysign1=481722ef1c3eaa4828be73f4aed0b236a9e47744ef3a0e98d6fdb619e729551d,from=unknown,pfx,sfx,ts=5fc13cc6/raztv0.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ю
+https://strm.yandex.ru/kal/utv/ysign1=2107d5e98ae0fd3959c7a6808e42c416020673302bd95b35a7ba11e1ac339086,from=unknown,pfx,sfx,ts=5fc13cc6/utv0.m3u8
+#EXTINF:-1 group-title="Региональные",360° Подмосковье
+https://strm.yandex.ru/kal/360tv_supres/ysign1=c0f36116f016d8c639ff536e5ab14628c962864fbda3d95255b59b39847786be,from=unknown,pfx,sfx,ts=5fc13cc6/360tv_supres0.m3u8
+#EXTINF:-1 group-title="Региональные",8 канал (Красноярск)
+https://strm.yandex.ru/kal/ch8/ysign1=1b9358cbc999df5802e70066e9198fe261cf00fe6ebc1fdf667ebe459784e041,from=unknown,pfx,sfx,ts=5fc13cc6/ch80.m3u8
+#EXTINF:-1 group-title="Региональные",Sochi live
+https://strm.yandex.ru/kal/sochilive/ysign1=844af5f7168536eafac773f77f9e3f7955be185ad17006664053c34193101815,from=unknown,pfx,sfx,ts=5fc13cc6/sochilive0.m3u8
+#EXTINF:-1 group-title="Региональные",TV Губерния
+https://strm.yandex.ru/kal/tvgubernia/ysign1=3c69eced5d9b4616566236d81d8f0fc076ef27ae672f5d790fc6dffcc51e6be0,from=unknown,pfx,sfx,ts=5fc13cc6/tvgubernia0.m3u8
+#EXTINF:-1 group-title="Региональные",UTV
+https://strm.yandex.ru/kal/utvtv/ysign1=80b5100033c09a344be420bae780fea50683ebcaf11d157f439eef58ff86b029,from=unknown,pfx,sfx,ts=5fc13cc6/utvtv0.m3u8
+#EXTINF:-1 group-title="Региональные",Аист
+https://strm.yandex.ru/kal/aist/ysign1=f9b3632b1af1ebfd67e28045d00227ac3a70fbc5f3b9b034c6fd5eb002b061a0,from=unknown,pfx,sfx,ts=5fc13cc6/aist0.m3u8
+#EXTINF:-1 group-title="Региональные",Алмазный край
+https://strm.yandex.ru/kal/almaz/ysign1=d21ba0e2c6774039f9590071e59162f5a21cc74ca9219aa3924bbe2433621d27,from=unknown,pfx,sfx,ts=5fc13cc6/almaz0.m3u8
+#EXTINF:-1 group-title="Региональные",Ариг Ус
+https://strm.yandex.ru/kal/arigus/ysign1=c51b66734bcbd6f8fee9e560530be40a50d990fc81082268eb79306a45c40662,from=unknown,pfx,sfx,ts=5fc13cc6/arigus0.m3u8
+#EXTINF:-1 group-title="Региональные",Арктика 24
+https://strm.yandex.ru/kal/arctictime/ysign1=2a8c08cb68a7059ab5f964c7e6e8959799a049a3220e6d98d09c40b439906238,from=unknown,pfx,sfx,ts=5fc13cc6/arctictime0.m3u8
+#EXTINF:-1 group-title="Региональные",Архыз 24
+https://strm.yandex.ru/kal/arhyz24/ysign1=459e789c07c1b0213d8652566f73a92e6cca4093079b7f7ccbbee884c9dcb004,from=unknown,pfx,sfx,ts=5fc13cc6/arhyz240.m3u8
+#EXTINF:-1 group-title="Региональные",Астрахань 24
+https://strm.yandex.ru/kal/astrahan24/ysign1=32876c410060e0f21d3e1d425c56ce1ebde444adb161f7e2ffe005ef3825a75f,from=unknown,pfx,sfx,ts=5fc13cc6/astrahan240.m3u8
+#EXTINF:-1 group-title="Региональные",Афонтово
+https://strm.yandex.ru/kal/afontovo/ysign1=2bc0d173ef855b5d6b1b232c85eeb986dcf597c39e118ca78b30014a674affb8,from=unknown,pfx,sfx,ts=5fc13cc6/afontovo0.m3u8
+#EXTINF:-1 group-title="Региональные",Барс
+https://strm.yandex.ru/kal/bars/ysign1=c15c647e96f3762909d1c13ca328da27b7dce857198354a135441230d452e6f6,from=unknown,pfx,sfx,ts=5fc13cc6/bars0.m3u8
+#EXTINF:-1 group-title="Региональные",Башкортостан 24
+https://strm.yandex.ru/kal/bashkortostan24/ysign1=7a8a9a91a4eea85e76521ae6193ee33aa3a6c8b2a120162522f1a0381909047e,from=unknown,pfx,sfx,ts=5fc13cc6/bashkortostan240.m3u8
+#EXTINF:-1 group-title="Региональные",Брянская губерния
+https://strm.yandex.ru/kal/brgub/ysign1=b5f80217833c473d47bffab692be08ccd70273f75cf37a413f027f29c175e57e,from=unknown,pfx,sfx,ts=5fc13cc6/brgub0.m3u8
+#EXTINF:-1 group-title="Региональные",БСТ
+https://strm.yandex.ru/kal/bstufa/ysign1=006dcc3173655ccafc3b2fc9e2fdc636f8e97903c3b57220739abb5e2f20dc8a,from=unknown,pfx,sfx,ts=5fc13cc6/bstufa0.m3u8
+#EXTINF:-1 group-title="Региональные",Ветта 24
+https://strm.yandex.ru/kal/vetta24/ysign1=2e0855e8801919bd20e8af4c478514384acdc5ed5c97d8814206ea0587b76d26,from=unknown,pfx,sfx,ts=5fc13cc6/vetta240.m3u8
+#EXTINF:-1 group-title="Региональные",Волгоград 1
+https://strm.yandex.ru/kal/volgograd1/ysign1=204d74a903e3f424d87da3fed1ba8ca8cd12de1da383a93e315c119f72a68f80,from=unknown,pfx,sfx,ts=5fc13cc6/volgograd10.m3u8
+#EXTINF:-1 group-title="Региональные",Волгоград 24
+https://strm.yandex.ru/kal/volgograd24/ysign1=0b932e9144117ec875b50473f990404f7a782e21957efb71b7dfb79423731810,from=unknown,pfx,sfx,ts=5fc13cc6/volgograd240.m3u8
+#EXTINF:-1 group-title="Региональные",Восток 24
+https://strm.yandex.ru/kal/vostok24/ysign1=78b5ddd1f568e23520024cc482aae778d5b06c468e68d38d62027ea9a5787cbe,from=unknown,pfx,sfx,ts=5fc13cc6/vostok240.m3u8
+#EXTINF:-1 group-title="Региональные",Вся Уфа
+https://strm.yandex.ru/kal/allufa/ysign1=7d9a664407a093221d4c6f6cff6e0632719d6417e8c837801d94d337b4c915dd,from=unknown,pfx,sfx,ts=5fc13cc6/allufa0.m3u8
+#EXTINF:-1 group-title="Региональные",Грозный
+https://strm.yandex.ru/kal/grozny/ysign1=41d7df73d56fc9b94d1a2526760bdeda72f6f9b5b2936f8ed9f26d2b8dcbe01d,from=unknown,pfx,sfx,ts=5fc13cc6/grozny0.m3u8
+#EXTINF:-1 group-title="Региональные",Губерния
+https://strm.yandex.ru/kal/guberniya/ysign1=0cb007ee41953a0cdd2dfac6be95e1f50941e0be87fab478f00be6ba81540eee,from=unknown,pfx,sfx,ts=5fc13cc6/guberniya0.m3u8
+#EXTINF:-1 group-title="Региональные",Дагестан
+https://strm.yandex.ru/kal/dagestan/ysign1=754f7754313d51b8cbf9201bdc3438711a581eb5f2cfb6deaeb070ddb94d1b99,from=unknown,pfx,sfx,ts=5fc13cc6/dagestan0.m3u8
+#EXTINF:-1 group-title="Региональные",Дзержинск
+https://strm.yandex.ru/kal/dzertv/ysign1=8a127801f7a4bac9179af48832df2fe51afffc98e608b4d5f95c5c9d11b12413,from=unknown,pfx,sfx,ts=5fc13cc6/dzertv0.m3u8
+#EXTINF:-1 group-title="Региональные",Дон 24
+https://strm.yandex.ru/kal/don24/ysign1=b850ccb4a426e43da5f6630fec07d2214c3b6658843f8ce848560230f781fb71,from=unknown,pfx,sfx,ts=5fc13cc6/don240.m3u8
+#EXTINF:-1 group-title="Региональные",Енисей
+https://strm.yandex.ru/kal/enisey/ysign1=7e15bdeba58a4856e31cd950260b4d0c68ca3f4ce9969c16f1684d1fa79b173b,from=unknown,pfx,sfx,ts=5fc13cc6/enisey0.m3u8
+#EXTINF:-1 group-title="Региональные",Катунь 24
+https://strm.yandex.ru/kal/katun24/ysign1=a3aa62dfe866f8047a4afc4a97496cbd449bc687735f6b4ccf476076a73b36f7,from=unknown,pfx,sfx,ts=5fc13cc6/katun240.m3u8
+#EXTINF:-1 group-title="Региональные",Крик ТВ
+https://strm.yandex.ru/kal/krik_tv/ysign1=c6dbe7ffd386ef36c68dd81eae49c92b935c8b3aa01138f29fe0132ce7f0d1f3,from=unknown,pfx,sfx,ts=5fc13cc6/krik_tv0.m3u8
+#EXTINF:-1 group-title="Региональные",Крым 24
+https://strm.yandex.ru/kal/krim24/ysign1=40a8f8b7f4a3d70c616a556a452c72c351e62fb4698e1961c428d809ae7229cc,from=unknown,pfx,sfx,ts=5fc13cc6/krim240.m3u8
+#EXTINF:-1 group-title="Региональные",Кубань 24
+https://strm.yandex.ru/kal/kuban24/ysign1=b7de5b1841106c7992d094fd2cdd71c4e9b37da08686cf2d4d0cdd60aa3e1897,from=unknown,pfx,sfx,ts=5fc13cc6/kuban240.m3u8
+#EXTINF:-1 group-title="Региональные",Курай
+https://strm.yandex.ru/kal/kuray/ysign1=39f7588899d33b99c2c8a8c338ba7c76e493f07b9ccd5df631d4185b8d543d0d,from=unknown,pfx,sfx,ts=5fc13cc6/kuray0.m3u8
+#EXTINF:-1 group-title="Региональные",Мордовия 24
+https://strm.yandex.ru/kal/mordovia24/ysign1=e601ae09f747035497420b42759fbfb66eeb5edd2d7b80af882fc291ea251361,from=unknown,pfx,sfx,ts=5fc13cc6/mordovia240.m3u8
+#EXTINF:-1 group-title="Региональные",Наша Сибирь
+https://strm.yandex.ru/kal/sibir/ysign1=9d8c172c8d83509bb742a1f9fb32a8c8c29647cab0e7b282e212c9d9ce7d602d,from=unknown,pfx,sfx,ts=5fc13cc6/sibir0.m3u8
+#EXTINF:-1 group-title="Региональные",Ника ТВ
+https://strm.yandex.ru/kal/nikatv/ysign1=785ef92ab6a5f96b370c8b7c570b0f510af186cb0f7f1ca9afa50977717064b5,from=unknown,pfx,sfx,ts=5fc13cc6/nikatv0.m3u8
+#EXTINF:-1 group-title="Региональные",Ноябрьск 24
+https://strm.yandex.ru/kal/noyabrsk24/ysign1=7f56a345a7279c6fc565ad8523e773d4edfe2bf71da3e413a3cb2c32441bf327,from=unknown,pfx,sfx,ts=5fc13cc6/noyabrsk240.m3u8
+#EXTINF:-1 group-title="Региональные",НТС Севастополь
+https://strm.yandex.ru/kal/nts/ysign1=eaaf140cf62b74302339ac6f309cbdbb730adb3191bcc6d65e8f6156c5b488c8,from=unknown,pfx,sfx,ts=5fc13cc6/nts0.m3u8
+#EXTINF:-1 group-title="Региональные",Осетия-Ирыстон
+https://strm.yandex.ru/kal/osetiya_iryston/ysign1=2aa5b407ecc026a43a514f678ef0e0dee9da034b294cd2493bfb03540eea5c7c,from=unknown,pfx,sfx,ts=5fc13cc6/osetiya_iryston0.m3u8
+#EXTINF:-1 group-title="Региональные",ОТВ 24
+https://strm.yandex.ru/kal/otv24/ysign1=4dd6d6c8f71045a4ec9c352e60e3d0e6a4191413d0ac8738716ed2c4a90a5428,from=unknown,pfx,sfx,ts=5fc13cc6/otv240.m3u8
+#EXTINF:-1 group-title="Региональные",ОТС
+https://strm.yandex.ru/kal/otstv/ysign1=a367337567efd890eddeffb6079b4df882aa7b22458f309c9f23ece7c1f624c9,from=unknown,pfx,sfx,ts=5fc13cc6/otstv0.m3u8
+#EXTINF:-1 group-title="Региональные",Первый Крымский
+https://strm.yandex.ru/kal/1krimskiy/ysign1=4104dd2b8afa74f4d09b74999412fb144c006b99f41a23bcde06cfa7e1b2169a,from=unknown,pfx,sfx,ts=5fc13cc6/1krimskiy0.m3u8
+#EXTINF:-1 group-title="Региональные",Первый Тульский
+https://strm.yandex.ru/kal/1tula/ysign1=02d2304789d800b8d172f5aac2359419855f53e889db79b62809003401146be2,from=unknown,pfx,sfx,ts=5fc13cc6/1tula0.m3u8
+#EXTINF:-1 group-title="Региональные",Прима-ТВ
+https://strm.yandex.ru/kal/primatv/ysign1=d53f9d4e89669c92d32bfb1bfb9f1610e236a7bc81d1d69bbc0c7ea2995c35f5,from=unknown,pfx,sfx,ts=5fc13cc6/primatv0.m3u8
+#EXTINF:-1 group-title="Региональные",Рифей-ТВ
+https://strm.yandex.ru/kal/rifey/ysign1=c20cf2eed7b415d250f516eef2c6c08f4db6440d30ad96225c06a881e3a5ca15,from=unknown,pfx,sfx,ts=5fc13cc6/rifey0.m3u8
+#EXTINF:-1 group-title="Региональные",Русский Север
+https://strm.yandex.ru/kal/rusnord/ysign1=296e8575f2ef606b5109b90f60bf0683f0eea53884c185a8deae011772ad725c,from=unknown,pfx,sfx,ts=5fc13cc6/rusnord0.m3u8
+#EXTINF:-1 group-title="Региональные",С1 HD
+https://strm.yandex.ru/kal/c1/ysign1=ee3019e3ef52bcb9b929d59bac6044dc7f0066929eca121ba9f150690de4a56b,from=unknown,pfx,sfx,ts=5fc13cc6/c10.m3u8
+#EXTINF:-1 group-title="Региональные",Санкт-Петербург
+https://strm.yandex.ru/kal/spb/ysign1=85be575c7137a9d2d83dc6d6c16943bb0c7a04778f31a97916e0f6f50e3e227e,from=unknown,pfx,sfx,ts=5fc13cc6/spb0.m3u8
+#EXTINF:-1 group-title="Региональные",Саратов 24
+https://strm.yandex.ru/kal/saratov24/ysign1=b6ff7d09e3a9bee4a4d67bde1cb45ed343b3663bcbf1ba10fa89d678df34e2d3,from=unknown,pfx,sfx,ts=5fc13cc6/saratov240.m3u8
+#EXTINF:-1 group-title="Региональные",Своё ТВ
+https://strm.yandex.ru/kal/svoetv/ysign1=17b06aa035928a5edd5d44327da216e827ee524f7844ad6ba6b412f4deac227a,from=unknown,pfx,sfx,ts=5fc13cc6/svoetv0.m3u8
+#EXTINF:-1 group-title="Региональные",Сейм
+https://strm.yandex.ru/kal/sejm/ysign1=fecddd1aa314c270e3b90bf5af88a05883281d1be731b100d85f911f653f74b4,from=unknown,pfx,sfx,ts=5fc13cc6/sejm0.m3u8
+#EXTINF:-1 group-title="Региональные",Сочи24
+https://strm.yandex.ru/kal/sochi24/ysign1=c26ebc22cb61e52765f39ca1fc3380901d6a95764fdaec13807103eaaf1a3ab4,from=unknown,pfx,sfx,ts=5fc13cc6/sochi240.m3u8
+#EXTINF:-1 group-title="Региональные",Тамыр
+https://strm.yandex.ru/kal/tamyr/ysign1=a86a134ca098a5ea64ff5abaf23115dcf0314ef98ad2960c1eb5d899a14c1750,from=unknown,pfx,sfx,ts=5fc13cc6/tamyr0.m3u8
+#EXTINF:-1 group-title="Региональные",Телеканал 86
+https://strm.yandex.ru/kal/ch86/ysign1=634c9f14fbf9bce039fc7221ac701a5b767bc611a361053659856e650cc50d4f,from=unknown,pfx,sfx,ts=5fc13cc6/ch860.m3u8
+#EXTINF:-1 group-title="Региональные",ТНВ Планета
+https://strm.yandex.ru/kal/tnvplaneta/ysign1=82c402d3481bb10616821fe8df8cc39e94007ee041b3286f9c26c72fcfe94259,from=unknown,pfx,sfx,ts=5fc13cc6/tnvplaneta0.m3u8
+#EXTINF:-1 group-title="Региональные",Томское время
+https://strm.yandex.ru/kal/tomsktime/ysign1=e843b26a99c89885e834524cf87d3e8cec6dfc14a8613af0b6e58af8f442b04c,from=unknown,pfx,sfx,ts=5fc13cc6/tomsktime0.m3u8
+#EXTINF:-1 group-title="Региональные",Удмуртия
+https://strm.yandex.ru/kal/udmurtia/ysign1=eb68641ff7d90dca9b6d2e80c83d84b6ce0f6b8859daab0f0674023cc916d845,from=unknown,pfx,sfx,ts=5fc13cc6/udmurtia0.m3u8
+#EXTINF:-1 group-title="Региональные",Хабар 24
+https://strm.yandex.ru/kal/khabar24/ysign1=1e6999ea1852e0bd65d1938c8e89577c90cffd3edfae874db8316d6de5f6d1aa,from=unknown,pfx,sfx,ts=5fc13cc6/khabar240.m3u8
+#EXTINF:-1 group-title="Региональные",Эфир
+https://strm.yandex.ru/kal/efir_supres/ysign1=886598d9a4f87ec6dcd959bf18ff06c5290f303db4c2966d2922d45e1a18f9b4,from=unknown,pfx,sfx,ts=5fc13cc6/efir_supres0.m3u8
+#EXTINF:-1 group-title="Региональные",Эхо ТВ
+https://strm.yandex.ru/kal/echotv/ysign1=b01d5e06681ea30d4b5e0dd8dc04a382c6c4c80687cb3802bf7b285a0339c2e7,from=unknown,pfx,sfx,ts=5fc13cc6/echotv0.m3u8
+#EXTINF:-1 group-title="Региональные",Югра
+https://strm.yandex.ru/kal/ugra/ysign1=cfe4cc573c468354611f2770bd86955ff381dd3c9dc1f297236a61ca72c521f1,from=unknown,pfx,sfx,ts=5fc13cc6/ugra0.m3u8
+#EXTINF:-1 group-title="Региональные",Юрган
+https://strm.yandex.ru/kal/yurgan/ysign1=2fa4e987281b00f7eaa02410593945f58a28dbb089e735fba0060e3fdbcf8ad6,from=unknown,pfx,sfx,ts=5fc13cc6/yurgan0.m3u8
+#EXTINF:-1 group-title="Региональные",Якутия 24
+https://strm.yandex.ru/kal/yk24/ysign1=357af4f30cf8e015dcbafcaf93abf6b883606d9f2f658ca90c511d15085da908,from=unknown,pfx,sfx,ts=5fc13cc6/yk240.m3u8
+#EXTINF:-1 group-title="Региональные",Ямал-Регион
+https://strm.yandex.ru/kal/yamal/ysign1=b0edaaffc810d9461aeeb1e6affea5ccb67978cce50526318cc26bef6bf892b8,from=unknown,pfx,sfx,ts=5fc13cc6/yamal0.m3u8
+#EXTINF:-1 group-title="Религия",МузСоюз
+https://strm.yandex.ru/kal/muzsoyuz/ysign1=ba99ea4c0bee4ee04ed07e71c50641a93b9024c9e3db5af5ac0babf0a8d70cfd,from=unknown,pfx,sfx,ts=5fc13cc6/muzsoyuz0.m3u8
+#EXTINF:-1 group-title="Религия",Надежда
+https://strm.yandex.ru/kal/nadejda/ysign1=b0a330b1db3a4995417aaf44931e65c6c4f409ad1a90a8cf90cea1cc33678a35,from=unknown,pfx,sfx,ts=5fc13cc6/nadejda0.m3u8
+#EXTINF:-1 group-title="Религия",Радость моя
+https://strm.yandex.ru/kal/radostmoya/ysign1=f7d3d46165eaf7278d7dc5419c7f549510d76d41fc96da47531c7e3e0784f417,from=unknown,pfx,sfx,ts=5fc13cc6/radostmoya0.m3u8
+#EXTINF:-1 group-title="Религия",СОЮЗ
+https://strm.yandex.ru/kal/soyuz_supres/ysign1=fd1befb6b0720f5230b720ac5318b98c2f38e7892d2df1d6a7d12b21900ee8fc,from=unknown,pfx,sfx,ts=5fc13cc6/soyuz_supres0.m3u8
+#EXTINF:-1 group-title="Религия",СПАС
+https://strm.yandex.ru/kal/spas/ysign1=2f9b6dde913236be9a8d4154d163a7b82b71eee1c7d2e4ed9319ca9c4d75942f,from=unknown,pfx,sfx,ts=5fc13cc6/spas0.m3u8
+#EXTINF:-1 group-title="Религия",ТБН
+https://strm.yandex.ru/kal/tbn/tbn0.m3u8
+#EXTINF:-1 group-title="Религия",Три Ангела
+https://strm.yandex.ru/kal/3angel/ysign1=6aef5e1ce795fca2d29859cf716c742bafad59d089bea470f665b3645455fc95,from=unknown,pfx,sfx,ts=5fc13cc6/3angel0.m3u8
+#EXTINF:-1 group-title="Спорт",Старт
+https://strm.yandex.ru/kal/start/ysign1=a6ef5e3fe7b145b08d22aa3c068af7bdd8a256809bc1fed597712ef93ed06366,from=unknown,pfx,sfx,ts=5fc13cc6/start0.m3u8
+#EXTINF:-1 group-title="Увлечения",Fashion TV
+https://strm.yandex.ru/kal/fashiontv/ysign1=d2a634ad3f6eac156e7521989ba309ace0d7a577ac67a0a9e746146a894b4114,from=unknown,pfx,sfx,ts=5fc13cc6/fashiontv0.m3u8
+#EXTINF:-1 group-title="Увлечения",World Fashion Channel
+https://strm.yandex.ru/kal/fashion/ysign1=d61718c070a349feabda65c31ad87d57071582b1080fb9dcf76f912497b853ce,from=unknown,pfx,sfx,ts=5fc13cc6/fashion0.m3u8
+#EXTINF:-1 group-title="Увлечения",Бьюти TV
+https://strm.yandex.ru/kal/beauty/ysign1=0eeda0855111a2cadc8e1f43043dc40d7b3f8195a9d9d731ab3ef37ba2afd798,from=unknown,pfx,sfx,ts=5fc13cc6/beauty0.m3u8
+#EXTINF:-1 group-title="Увлечения",Вкусное TV
+https://strm.yandex.ru/kal/vkusnoetv/ysign1=2a36cdd3638dedc9020a79b8559e899cd57e9f8d73842b0695a668b1fc490a77,from=unknown,pfx,sfx,ts=5fc13cc6/vkusnoetv0.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда
+https://strm.yandex.ru/kal/zvezda/ysign1=5c75943dba94fea926b7124058f382718711faed759abc0efa047e9d6f5cf23e,from=unknown,pfx,sfx,ts=5fc13cc6/zvezda0.m3u8
+#EXTINF:-1 group-title="Федеральные",Красная Линия
+https://strm.yandex.ru/kal/rline/ysign1=358fbb05104e980f327f592415a7628674b64fa38bcdd5102783105a216a2f53,from=unknown,pfx,sfx,ts=5fc13cc6/rline0.m3u8
+#EXTINF:-1 group-title="Федеральные",МИР
+https://strm.yandex.ru/kal/mir/ysign1=0177fc104d667797de3307d7afa18eab4095c7a9333007399b45c595fa1172de,from=unknown,pfx,sfx,ts=5fc13cc6/mir0.m3u8
+#EXTINF:-1 group-title="Федеральные",ОТР
+https://strm.yandex.ru/kal/otr/ysign1=8d3d425bdb743675c455e5976c8f2418d4e41ea6423275781e4f04a7539ce73b,from=unknown,pfx,sfx,ts=5fc13cc6/otr0.m3u8
+#EXTINF:-1 group-title="Фильмы",TVMChannel
+https://strm.yandex.ru/kal/tvm_supres/ysign1=78ce8945749ae4e9a828f49b6aac1c38c2bd34cd9626b08d57bd8fa235e2527c,from=unknown,pfx,sfx,ts=5fc13cc6/tvm_supres0.m3u8
+#EXTINF:-1 group-title="Фильмы",Калейдоскоп ТВ
+https://strm.yandex.ru/kal/kaleidoskoptv/ysign1=1de2d410c5edc4b548724669934281e5471a81c93d06cb4181b5656501ff7e56,from=unknown,pfx,sfx,ts=5fc13cc6/kaleidoskoptv0.m3u8
+#EXTINF:-1 group-title="Фильмы",МИР Premium
+https://strm.yandex.ru/kal/mirhd/ysign1=b26af8a424f4e797ef72d5edb8ac82e8643c26241960919860db1880cb91a7ea,from=unknown,pfx,sfx,ts=5fc13cc6/mirhd0.m3u8
+#EXTINF:-1 group-title="Фильмы",Мир Сериала
+https://strm.yandex.ru/kal/mirseriala/ysign1=7a766aa9448d413d1d21b846a990cd19fe86b51dc1bedabb69fb035577430d65,from=unknown,pfx,sfx,ts=5fc13cc6/mirseriala0.m3u8
+#EXTINF:-1 group-title="Фильмы",Советское кино
+https://strm.yandex.ru/kal/sovkino_supres/ysign1=f860c96a43e2528d956ced4400389c70193999331bf6a286131315e72b764c2d,from=unknown,pfx,sfx,ts=5fc13cc6/sovkino_supres0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры" group-title="Региональные",Санкт-Петербург
+https://strm.yandex.ru/kal/weather_saint_petersburg/ysign1=6cc8a547c50af6cd9d853dd737f66d63312aec935dfe215a25194cab1a44f318,from=unknown,pfx,sfx,ts=5fc13cc6/weather_saint_petersburg0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Будапешт
+https://strm.yandex.ru/kal/weather_budapest/ysign1=04837470290cef385a35c4577c8e6dc27c92db8d452748ca4c259924c09ae6d1,from=unknown,pfx,sfx,ts=5fc13cc6/weather_budapest0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Владивосток
+https://strm.yandex.ru/kal/weather_vladivostok/ysign1=23c678bd376121d2fbea71e037a45202a840df5c6eaa5c97847146955e68d74d,from=unknown,pfx,sfx,ts=5fc13cc6/weather_vladivostok0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Волгоград
+https://strm.yandex.ru/kal/weather_volgograd/ysign1=f6c95f6a8af6e672fdf9c9656f22be4c3b61756114a966c8f1f0193e9637388f,from=unknown,pfx,sfx,ts=5fc13cc6/weather_volgograd0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Воронеж
+https://strm.yandex.ru/kal/weather_voronezh/ysign1=329722517fd6fe744656cc1a36301a1c5cf3a1e884e934994e6d78238af9bff3,from=unknown,pfx,sfx,ts=5fc13cc6/weather_voronezh0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Екатеринбург
+https://strm.yandex.ru/kal/weather_ekaterinburg/ysign1=605188c1692fcb2cb0d2cb15112ecd20c10d38e4ef265f3e61cad60921a48b2a,from=unknown,pfx,sfx,ts=5fc13cc6/weather_ekaterinburg0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Казань
+https://strm.yandex.ru/kal/weather_kazan/ysign1=136e5b8fa1b7d22130746e82cfd81502ffa57538e75827c8f4b93a8949223e8f,from=unknown,pfx,sfx,ts=5fc13cc6/weather_kazan0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Калининград
+https://strm.yandex.ru/kal/weather_kaliningrad/ysign1=339068e26f694e9fe1d0f3c0b57580e2746b034358e14c9ade574a4c080fc600,from=unknown,pfx,sfx,ts=5fc13cc6/weather_kaliningrad0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Краснодар
+https://strm.yandex.ru/kal/weather_krasnodar/ysign1=64c5fc3189d8cb6cc8f91f3aadb6b777946d8efa40fb44d4c15f47324adfe192,from=unknown,pfx,sfx,ts=5fc13cc6/weather_krasnodar0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Красноярск
+https://strm.yandex.ru/kal/weather_krasnoyarsk/ysign1=cdb1f1301ebd3e8b0915fbac33afeb9ab58b72a7a859d59c5939a97f5f6039eb,from=unknown,pfx,sfx,ts=5fc13cc6/weather_krasnoyarsk0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Москва Сити
+https://strm.yandex.ru/kal/weather_moscowcity/ysign1=8b35202f3ac94b00d4a378de65d123b536a6acc4b807a4a32c012c029a9dd3a6,from=unknown,pfx,sfx,ts=5fc13cc6/weather_moscowcity0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Москва
+https://strm.yandex.ru/kal/weather_moscow/ysign1=e3fbb85c213faefd2ebcee4169233d718c3a5868e4f82299cf98579cbbf3e1f5,from=unknown,pfx,sfx,ts=5fc13cc6/weather_moscow0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Нижний Новгород
+https://strm.yandex.ru/kal/weather_nizhniy/ysign1=78307c379cc6e511ec4854d5cf74d81de94d00abc4d55ad2bd0c3acb441715ec,from=unknown,pfx,sfx,ts=5fc13cc6/weather_nizhniy0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Новосибирск
+https://strm.yandex.ru/kal/weather_novosibirsk/ysign1=588cc41729ac7bc69ddfd2448a61fea2eeebd2add699938b459008b755424935,from=unknown,pfx,sfx,ts=5fc13cc6/weather_novosibirsk0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Нью-Йорк
+https://strm.yandex.ru/kal/weather_newyork/ysign1=eba64895f349814e87efc9810c303404cefb8ecf970924dbea80b0b6177de3f5,from=unknown,pfx,sfx,ts=5fc13cc6/weather_newyork0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Омск
+https://strm.yandex.ru/kal/weather_omsk/ysign1=c7eeac60aa021f5a45b13acad9cd320ef4d9d7b02bc76778f86f4ea87d966273,from=unknown,pfx,sfx,ts=5fc13cc6/weather_omsk0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Париж
+https://strm.yandex.ru/kal/weather_paris/ysign1=4038eed6d6e8ac2145493a5e842a302fdfcaef8cf6256cc7d6055477da17305a,from=unknown,pfx,sfx,ts=5fc13cc6/weather_paris0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Пермь
+https://strm.yandex.ru/kal/weather_perm/ysign1=2d373a09ca091e64ffcc3383db5756eb86140fd9ad0153ae91fce5744a8a4c74,from=unknown,pfx,sfx,ts=5fc13cc6/weather_perm0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Рига
+https://strm.yandex.ru/kal/weather_riga/ysign1=3b5166f0cd5eb1c92ed4b3e63b02d96f25e5ddd8c8f6668ba5c0f5b7b51864de,from=unknown,pfx,sfx,ts=5fc13cc6/weather_riga0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Ростов-на-Дону
+https://strm.yandex.ru/kal/weather_rostov/ysign1=43ae089bbad79f4113d326d5b3416ad21c8444b927da1f6fc0fa0cd5151814fd,from=unknown,pfx,sfx,ts=5fc13cc6/weather_rostov0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Самара
+https://strm.yandex.ru/kal/weather_samara/ysign1=392ae34a57439178b640553a5b8775ea259bb12e8a808eac4ff144ce2b3910db,from=unknown,pfx,sfx,ts=5fc13cc6/weather_samara0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Тюмень
+https://strm.yandex.ru/kal/weather_tyumen/ysign1=aee87fa83c6be4bb54d681c9e8a9c2b5c09a45a6c403398ed3e7d332236b22d9,from=unknown,pfx,sfx,ts=5fc13cc6/weather_tyumen0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Уфа
+https://strm.yandex.ru/kal/weather_ufa/ysign1=dfa99d1d35ff9adfa7fa0f5816093409a9ea9ec0138d974668f545c84001334a,from=unknown,pfx,sfx,ts=5fc13cc6/weather_ufa0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Хельсинки
+https://strm.yandex.ru/kal/weather_helsinki/ysign1=daff19cd151859816dad8414ff44152566d5e0fed72d411e632c3abf66c961dd,from=unknown,pfx,sfx,ts=5fc13cc6/weather_helsinki0.m3u8
+#EXTINF:-1 group-title="Яндекс камеры",Челябинск
+https://strm.yandex.ru/kal/weather_chelyabinsk/ysign1=bbe3f7737f04cd4ebfed5b4b05c0a69deda60ab3905d464dfb6d6be1f2b89016,from=unknown,pfx,sfx,ts=5fc13cc6/weather_chelyabinsk0.m3u8
