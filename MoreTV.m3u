@@ -1,0 +1,85 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Эфирные",Первый канал HD
+http://mobdrm.mediavitrina.ru/hls-livec2/streams/more1tv.smil/playlist-nosubs.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Эфирные",Россия 1 HD
+http://mobdrm.mediavitrina.ru/hls-livec2/streams/russia1.smil/playlist-nosubs.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Эфирные",Пятый канал
+http://mobdrm.mediavitrina.ru/hls-live1/streams/tv-5/tv-5.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Эфирные",Россия К
+http://mobdrm.mediavitrina.ru/hls-livec2/streams/russiak.smil/playlist-nosubs.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Информационные",Россия-24
+http://mobdrm.mediavitrina.ru/hls-livec1/streams/russia24.smil/playlist-nosubs.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Эфирные",ТВЦ
+http://mobdrm.mediavitrina.ru/hls-live1/streams/tvc/tvc.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Эфирные",РенТВ HD
+http://mobdrm.mediavitrina.ru/hls-live1/streams/ren-tv/ren-tv-nosubs.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Эфирные",СПАС
+http://mobdrm.mediavitrina.ru/hls-live1/streams/spas/spas.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Эфирные",СТС HD
+http://mobdrm.mediavitrina.ru/hls-live1/streams/ctc/ctc-nosubs.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Эфирные",Домашний HD
+http://mobdrm.mediavitrina.ru/hls-live2/streams/ctc-dom/ctc-dom-nosubs.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Эфирные",Звезда
+http://mobdrm.mediavitrina.ru/hls-live1/streams/zvezda/zvezda-nosubs.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Эфирные",Мир
+http://mobdrm.mediavitrina.ru/hls-live1/streams/mtrkmir/mtrkmir.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Музыкальные",Муз ТВ
+http://mobdrm.mediavitrina.ru/hls-live1/streams/muztv/muztv.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Эфирные",ЧЕ
+http://mobdrm.mediavitrina.ru/hls-live2/streams/ctc-che/ctc-che-nosubs.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Эфирные",СТС LOVE
+http://mobdrm.mediavitrina.ru/hls-live2/streams/ctc-love/ctc-love-nosubs.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Информационные",Известия HD
+http://mobdrm.mediavitrina.ru/hls-live1/streams/iz/iz.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Фильмовые",FOX HD
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/FOX_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Фильмовые",Fox Life HD
+http://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Fox_Life_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Детские",СТС Kids HD
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/CTC_Kids/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Фильмовые",TV 1000 HD
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/TV1000_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Фильмовые",TV 1000 Action HD
+http://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/TV1000_Action_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Фильмовые",TV 1000 Русское кино HD
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/TV1000_Russian_Kino_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Фильмовые",ViP Premiere HD
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/ViP_Premiere_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Фильмовые",VIP Megahit HD
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/ViP_Megahit_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Фильмовые",ViP Serial HD
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/VIP_SERIAL/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Фильмовые",VIP Comedy HD
+http://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/ViP_Comedy_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Познавательные",Viasat Explore HD
+http://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Viasat_Explore_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Познавательные",Viasat History HD
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/Viasat_History_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Познавательные",Viasat Nature HD
+http://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Viasat_Nature_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/NGC_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Познавательные",Da Vinci
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/Da_Vinci/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Спортивные",Viasat Sport HD
+http://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Viasat_Sport_HD/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Спортивные",UFC HD
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/UFC/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Развлекательные",Ю
+http://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/U_OTT/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Фильмовые",Феникс+ ТВ
+http://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Fenix_Kino/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
+http://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Anekdot_TV/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Познавательные",Оружие
+http://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Oruzhie/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Детские",Канал Disney
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/Disney_OTT/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Спортивные",Футбол 1. Бразильская лига (Серия А)
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/Brazilian_Football_HD_1/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Спортивные",Футбол 2. Бразильская лига (Серия А)
+http://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/Brazilian_Football_HD_2/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Спортивные",Футбол 3. Бразильская лига (Серия А)
+http://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Brazilian_Football_HD_3/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
+#EXTINF:-1 group-title="Спортивные",Футбол 4. Бразильская лига (Серия А)
+http://mobdrm.mediavitrina.ru/hls-livecn1/streams/hls/Brazilian_Football_HD_4/master.m3u8?cdn=http://moretv-live-megafon.mediavitrina.ru&token=eDLT8rUtHj0FReHcSj1zlO5C4zuCFXhMxcUL3zdiBNs.YvmnLde7AraQa3eQT13pZTgPZsQCiys6hghCPpXs88A.1609534220
