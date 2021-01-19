@@ -139,11 +139,11 @@ http://api.peers.tv/timeshift/uspex/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsI
 http://api.peers.tv/timeshift/tvc_ctv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Познавательные",Эврика HD
 http://api.peers.tv/timeshift/hd_eureka/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",12 канал (Омск)
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/11/178769/178769979.png",12 канал (Омск)
 http://api.peers.tv/timeshift/ortrk12/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",12 канал (Череповец)
+#EXTINF:-1 group-title="Региональные",12 канал
 http://api.peers.tv/timeshift/kanal_12/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",49 канал Новосибирск
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141610.png",49 канал Новосибирск
 http://api.peers.tv/timeshift/49kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",8 канал
 http://api.peers.tv/timeshift/8_kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
@@ -155,13 +155,13 @@ http://api.peers.tv/timeshift/vsya_ufa/16/playlist.m3u8?token=eyJhbGciOiJIUzI1Ni
 http://api.peers.tv/timeshift/don_24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDUwODczODMsImlhdCI6MTYwNTAwMDk4MywiY2lkIjo4MSwidWlkIjozOTcwMDczMjksInJlZyI6ZmFsc2UsImlwIjoyOTU5NDA5NTcwfQ.eLoPOFe2I6PeFpu3CAPOEG0RUJs5ugtolNMTyDot5rk&offset=1
 #EXTINF:-1 group-title="Региональные",Евпатория ТВ
 http://api.peers.tv/timeshift/evpatorija/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",ЗабТВ
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/04/190812/190812098.png",ЗабТВ
 http://api.peers.tv/timeshift/zabtv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",Июнь
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/10/29/176991/176991389.png",Июнь
 http://api.peers.tv/timeshift/iyun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",Канал 12
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/20/192826/192826466.png",Канал 12
 http://api.peers.tv/timeshift/kanal_12/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",Краснодар (он-лайн)
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/03/198504/198504737.png",Краснодар (он-лайн)
 http://api.peers.tv/timeshift/krasnodar_on_layn/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",Крик-ТВ
 http://api.peers.tv/timeshift/krik_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
@@ -169,33 +169,33 @@ http://api.peers.tv/timeshift/krik_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiI
 http://api.peers.tv/timeshift/krym_24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",Кубань 24 Орбита
 http://api.peers.tv/timeshift/kuban24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",Кузбасс 1 (HD)
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/04/190812/190812111.png",Кузбасс 1 (HD)
 http://api.peers.tv/timeshift/gtrk_kuzbass/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",ЛДПР ТВ
 http://api.peers.tv/timeshift/ldpr_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",Мордовия 24
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/13/199998/199998245.png",Мордовия 24
 http://api.peers.tv/timeshift/mordoviya_24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",ННТВ
 http://api.peers.tv/timeshift/nntv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",НТС (Севастополь)
 http://api.peers.tv/timeshift/nts/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",ОТВ 24
+#EXTINF:-1 group-title="Региональные",ОТВ Челябинск
 http://api.peers.tv/timeshift/otv24_ekb/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",ОТС (HD)
 http://api.peers.tv/timeshift/ots/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",Первый крымский
 http://api.peers.tv/timeshift/1_krymskiy/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",Регион 04
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/04/190812/190812085.png",Регион 04
 http://api.peers.tv/timeshift/region_04/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",Ростов-ПАПА
 http://api.peers.tv/timeshift/rostov_papa/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",Салям
 http://api.peers.tv/timeshift/salyam/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",Самотлор
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/15/179004/179004102.png",Самотлор
 http://api.peers.tv/timeshift/samotlor/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",Санкт-Петербург
 http://api.peers.tv/timeshift/topspb/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",Сочи 24
+#EXTINF:-1 group-title="Региональные tvg-logo="http://peers.tv/data/illustrations/ills/2018/09/10/140724/140724142.png"",Сочи 24
 http://api.peers.tv/timeshift/sochi24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",ТВК
 http://api.peers.tv/timeshift/tvk_6/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
@@ -205,7 +205,7 @@ http://api.peers.tv/timeshift/tivikom/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiI
 http://api.peers.tv/timeshift/tnv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",Ювелирочка
 http://api.peers.tv/timeshift/yuvelirochka/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Региональные",Якутия 24
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://peers.tv/data/illustrations/ills/2019/05/31/161872/161872669.png",Якутия 24
 http://api.peers.tv/timeshift/yakutiya24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Региональные",Ямал-Регион
 http://api.peers.tv/timeshift/yamal_region/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
@@ -215,7 +215,7 @@ http://api.peers.tv/timeshift/radost_moj/16/playlist.m3u8?token=eyJhbGciOiJIUzI1
 http://api.peers.tv/timeshift/soyuz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Религия",СПАС
 http://api.peers.tv/timeshift/spas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
-#EXTINF:-1 group-title="Федеральные",2x2 (+4)
+#EXTINF:-1 group-title="Федеральные",2x2
 http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
 #EXTINF:-1 group-title="Федеральные",Домашний (+4)
 http://api.peers.tv/timeshift/domashny/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDc5ODYxODMsImlhdCI6MTYwNzg5OTc4MywiY2lkIjo2LCJ1aWQiOjQwMDkyMzUzMiwicmVnIjpmYWxzZSwiaXAiOjI5NTk0MDk1NzB9.gGxdTY-DGCBSBxaNPDw6Plc8WMD0rY9AQhJdudIktRA&offset=1
