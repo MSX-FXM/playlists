@@ -1,0 +1,249 @@
+#EXTM3U
+#EXTINF:-1 group-title="Детские",Disney
+http://192.168.0.104:9090/TVplus/1
+#EXTINF:-1 group-title="Детские",Карусель
+http://192.168.0.104:9090/TVplus/2
+#EXTINF:-1 group-title="Детские" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/skazki.png",Сказки Зайки
+http://192.168.0.104:9090/TVplus/3
+#EXTINF:-1 group-title="Детские" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/rusmult.png",Советские мультфильмы
+http://192.168.0.104:9090/TVplus/4
+#EXTINF:-1 group-title="Музыка",Bridge Classic
+http://192.168.0.104:9090/TVplus/5
+#EXTINF:-1 group-title="Музыка",Bridge TV Deluxe
+http://192.168.0.104:9090/TVplus/6
+#EXTINF:-1 group-title="Музыка",Bridge TV Hits
+http://192.168.0.104:9090/TVplus/7
+#EXTINF:-1 group-title="Музыка",Bridge TV
+http://192.168.0.104:9090/TVplus/8
+#EXTINF:-1 group-title="Музыка",BRIDGE TV Русский Хит
+http://192.168.0.104:9090/TVplus/9
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
+http://192.168.0.104:9090/TVplus/10
+#EXTINF:-1 group-title="Музыка",Russian MusicBox
+http://192.168.0.104:9090/TVplus/11
+#EXTINF:-1 group-title="Музыка",Russian MusicBox HD
+http://192.168.0.104:9090/TVplus/12
+#EXTINF:-1 group-title="Музыка",ТНТ Music
+http://192.168.0.104:9090/TVplus/13
+#EXTINF:-1 group-title="Новости",Russia Today
+http://192.168.0.104:9090/TVplus/14
+#EXTINF:-1 group-title="Новости",Известия
+http://192.168.0.104:9090/TVplus/15
+#EXTINF:-1 group-title="Новости",ПРО БИЗНЕС
+http://192.168.0.104:9090/TVplus/16
+#EXTINF:-1 group-title="Познавательные",HD Media
+http://192.168.0.104:9090/TVplus/17
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/joycook.png",Joy Cook
+http://192.168.0.104:9090/TVplus/18
+#EXTINF:-1 group-title="Познавательные",RT Doc HD
+http://192.168.0.104:9090/TVplus/19
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/unknownplanet.png",Неизвестная Планета
+http://192.168.0.104:9090/TVplus/20
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/patriot.png",Парк Патриот
+http://192.168.0.104:9090/TVplus/21
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/terra.png",Терра Инкогнита
+http://192.168.0.104:9090/TVplus/22
+#EXTINF:-1 group-title="Познавательные",Точка ТВ
+http://192.168.0.104:9090/TVplus/23
+#EXTINF:-1 group-title="Развлекательные",2x2
+http://192.168.0.104:9090/TVplus/24
+#EXTINF:-1 group-title="Развлекательные",СТСlove
+http://192.168.0.104:9090/TVplus/25
+#EXTINF:-1 group-title="Развлекательные",Супер
+http://192.168.0.104:9090/TVplus/26
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://192.168.0.104:9090/TVplus/27
+#EXTINF:-1 group-title="Развлекательные",Че
+http://192.168.0.104:9090/TVplus/28
+#EXTINF:-1 group-title="Развлекательные",Ю
+http://192.168.0.104:9090/TVplus/29
+#EXTINF:-1 group-title="Региональные",Башкортостан 24
+http://192.168.0.104:9090/TVplus/30
+#EXTINF:-1 group-title="Региональные",КВАНТ
+http://192.168.0.104:9090/TVplus/31
+#EXTINF:-1 group-title="Региональные",КУРАЙ-ТВ
+http://192.168.0.104:9090/TVplus/32
+#EXTINF:-1 group-title="Региональные",Майдан
+http://192.168.0.104:9090/TVplus/33
+#EXTINF:-1 group-title="Региональные",Наш Дом
+http://192.168.0.104:9090/TVplus/34
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/otv24.png",ОТВ 24
+http://192.168.0.104:9090/TVplus/35
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/priboy.png",Прибой
+http://192.168.0.104:9090/TVplus/36
+#EXTINF:-1 group-title="Региональные",САЛЯМ
+http://192.168.0.104:9090/TVplus/37
+#EXTINF:-1 group-title="Региональные",Тамыр
+http://192.168.0.104:9090/TVplus/38
+#EXTINF:-1 group-title="Региональные",ШАЯН
+http://192.168.0.104:9090/TVplus/39
+#EXTINF:-1 group-title="Религия",Радость моя
+http://192.168.0.104:9090/TVplus/40
+#EXTINF:-1 group-title="Религия",Спас
+http://192.168.0.104:9090/TVplus/41
+#EXTINF:-1 group-title="Спорт",M-1 Global
+http://192.168.0.104:9090/TVplus/42
+#EXTINF:-1 group-title="Спорт",Бокс ТВ
+http://192.168.0.104:9090/TVplus/43
+#EXTINF:-1 group-title="Спорт",КХЛ HD
+http://192.168.0.104:9090/TVplus/44
+#EXTINF:-1 group-title="Спорт",Матч!
+http://192.168.0.104:9090/TVplus/45
+#EXTINF:-1 group-title="Спорт",Матч! HD
+http://192.168.0.104:9090/TVplus/46
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+http://192.168.0.104:9090/TVplus/47
+#EXTINF:-1 group-title="Спорт",Матч! Арена HD
+http://192.168.0.104:9090/TVplus/48
+#EXTINF:-1 group-title="Спорт",Матч! Боец
+http://192.168.0.104:9090/TVplus/49
+#EXTINF:-1 group-title="Спорт",Матч! Игра
+http://192.168.0.104:9090/TVplus/50
+#EXTINF:-1 group-title="Спорт",Матч! Игра HD
+http://192.168.0.104:9090/TVplus/51
+#EXTINF:-1 group-title="Спорт",Матч Премьер
+http://192.168.0.104:9090/TVplus/52
+#EXTINF:-1 group-title="Спорт",Матч! Премьер HD
+http://192.168.0.104:9090/TVplus/53
+#EXTINF:-1 group-title="Спорт",Матч! Страна
+http://192.168.0.104:9090/TVplus/54
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
+http://192.168.0.104:9090/TVplus/55
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
+http://192.168.0.104:9090/TVplus/56
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
+http://192.168.0.104:9090/TVplus/57
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
+http://192.168.0.104:9090/TVplus/58
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
+http://192.168.0.104:9090/TVplus/59
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
+http://192.168.0.104:9090/TVplus/60
+#EXTINF:-1 group-title="Федеральные",Домашний
+http://192.168.0.104:9090/TVplus/61
+#EXTINF:-1 group-title="Федеральные",Звезда
+http://192.168.0.104:9090/TVplus/62
+#EXTINF:-1 group-title="Федеральные",Мир
+http://192.168.0.104:9090/TVplus/63
+#EXTINF:-1 group-title="Федеральные",Мир HD
+http://192.168.0.104:9090/TVplus/64
+#EXTINF:-1 group-title="Федеральные",Москва 24
+http://192.168.0.104:9090/TVplus/65
+#EXTINF:-1 group-title="Федеральные",Муз ТВ
+http://192.168.0.104:9090/TVplus/66
+#EXTINF:-1 group-title="Федеральные",НТВ
+http://192.168.0.104:9090/TVplus/67
+#EXTINF:-1 group-title="Федеральные",НТВ HD
+http://192.168.0.104:9090/TVplus/68
+#EXTINF:-1 group-title="Федеральные",ОТР
+http://192.168.0.104:9090/TVplus/69
+#EXTINF:-1 group-title="Федеральные",Первый канал
+http://192.168.0.104:9090/TVplus/70
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
+http://192.168.0.104:9090/TVplus/71
+#EXTINF:-1 group-title="Федеральные",Пятница
+http://192.168.0.104:9090/TVplus/72
+#EXTINF:-1 group-title="Федеральные",Пятый канал
+http://192.168.0.104:9090/TVplus/73
+#EXTINF:-1 group-title="Федеральные",Рен Тв
+http://192.168.0.104:9090/TVplus/74
+#EXTINF:-1 group-title="Федеральные",Россия 1
+http://192.168.0.104:9090/TVplus/75
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD
+http://192.168.0.104:9090/TVplus/76
+#EXTINF:-1 group-title="Федеральные",Россия 24
+http://192.168.0.104:9090/TVplus/77
+#EXTINF:-1 group-title="Федеральные",СТС
+http://192.168.0.104:9090/TVplus/78
+#EXTINF:-1 group-title="Федеральные",ТВ Центр
+http://192.168.0.104:9090/TVplus/79
+#EXTINF:-1 group-title="Федеральные",ТВ3
+http://192.168.0.104:9090/TVplus/80
+#EXTINF:-1 group-title="Федеральные",ТНТ
+http://192.168.0.104:9090/TVplus/81
+#EXTINF:-1 group-title="Федеральные",ТНТ HD
+http://192.168.0.104:9090/TVplus/82
+#EXTINF:-1 group-title="Федеральные +2",Карусель +2
+http://192.168.0.104:9090/TVplus/83
+#EXTINF:-1 group-title="Федеральные +2",НТВ +2
+http://192.168.0.104:9090/TVplus/84
+#EXTINF:-1 group-title="Федеральные +2",Первый канал +2
+http://192.168.0.104:9090/TVplus/85
+#EXTINF:-1 group-title="Федеральные +2",Пятница +2
+http://192.168.0.104:9090/TVplus/86
+#EXTINF:-1 group-title="Федеральные +2",Рен Тв +2
+http://192.168.0.104:9090/TVplus/87
+#EXTINF:-1 group-title="Федеральные +2",Россия 1 +2
+http://192.168.0.104:9090/TVplus/88
+#EXTINF:-1 group-title="Федеральные +2",СТС +2
+http://192.168.0.104:9090/TVplus/89
+#EXTINF:-1 group-title="Федеральные +2",ТВ3 +2
+http://192.168.0.104:9090/TVplus/90
+#EXTINF:-1 group-title="Федеральные +2",ТНТ +2
+http://192.168.0.104:9090/TVplus/91
+#EXTINF:-1 group-title="Федеральные +4",Карусель +4
+http://192.168.0.104:9090/TVplus/92
+#EXTINF:-1 group-title="Федеральные +4",НТВ +4
+http://192.168.0.104:9090/TVplus/93
+#EXTINF:-1 group-title="Федеральные +4",Первый канал +4
+http://192.168.0.104:9090/TVplus/94
+#EXTINF:-1 group-title="Федеральные +4",Пятница +4
+http://192.168.0.104:9090/TVplus/95
+#EXTINF:-1 group-title="Федеральные +4",Рен Тв +4
+http://192.168.0.104:9090/TVplus/96
+#EXTINF:-1 group-title="Федеральные +4",Россия 1 +4
+http://192.168.0.104:9090/TVplus/97
+#EXTINF:-1 group-title="Федеральные +4",СТС +4
+http://192.168.0.104:9090/TVplus/98
+#EXTINF:-1 group-title="Федеральные +4",ТВ3 +4
+http://192.168.0.104:9090/TVplus/99
+#EXTINF:-1 group-title="Федеральные +4",ТНТ +4
+http://192.168.0.104:9090/TVplus/100
+#EXTINF:-1 group-title="Федеральные +6",Карусель +6
+http://192.168.0.104:9090/TVplus/101
+#EXTINF:-1 group-title="Федеральные +6",НТВ +6
+http://192.168.0.104:9090/TVplus/102
+#EXTINF:-1 group-title="Федеральные +6",Первый канал +6
+http://192.168.0.104:9090/TVplus/103
+#EXTINF:-1 group-title="Федеральные +6",Пятница +6
+http://192.168.0.104:9090/TVplus/104
+#EXTINF:-1 group-title="Федеральные +6",Рен Тв +6
+http://192.168.0.104:9090/TVplus/105
+#EXTINF:-1 group-title="Федеральные +6",Россия 1 +6
+http://192.168.0.104:9090/TVplus/106
+#EXTINF:-1 group-title="Федеральные +6",СТС +6
+http://192.168.0.104:9090/TVplus/107
+#EXTINF:-1 group-title="Федеральные +6",ТВ3 +6
+http://192.168.0.104:9090/TVplus/108
+#EXTINF:-1 group-title="Федеральные +6",ТНТ +6
+http://192.168.0.104:9090/TVplus/109
+#EXTINF:-1 group-title="Фильмы",Индийское кино
+http://192.168.0.104:9090/TVplus/110
+#EXTINF:-1 group-title="Фильмы",Кинокомедия
+http://192.168.0.104:9090/TVplus/111
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/kinomenu.png",КиноМеню HD
+http://192.168.0.104:9090/TVplus/112
+#EXTINF:-1 group-title="Фильмы",Киномикс HD
+http://192.168.0.104:9090/TVplus/113
+#EXTINF:-1 group-title="Фильмы",Кинопремьера HD
+http://192.168.0.104:9090/TVplus/114
+#EXTINF:-1 group-title="Фильмы",Киносвидание
+http://192.168.0.104:9090/TVplus/115
+#EXTINF:-1 group-title="Фильмы",Киносемья
+http://192.168.0.104:9090/TVplus/116
+#EXTINF:-1 group-title="Фильмы",Киносерия
+http://192.168.0.104:9090/TVplus/117
+#EXTINF:-1 group-title="Фильмы",Киноужас HD
+http://192.168.0.104:9090/TVplus/118
+#EXTINF:-1 group-title="Фильмы",Кинохит
+http://192.168.0.104:9090/TVplus/119
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/classickino.png",Классика Кино
+http://192.168.0.104:9090/TVplus/120
+#EXTINF:-1 group-title="Фильмы",Мужское кино
+http://192.168.0.104:9090/TVplus/121
+#EXTINF:-1 group-title="Фильмы",Наше новое кино
+http://192.168.0.104:9090/TVplus/122
+#EXTINF:-1 group-title="Фильмы",Родное кино
+http://192.168.0.104:9090/TVplus/123
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/sovmov.png",Советское кино
+http://192.168.0.104:9090/TVplus/124
