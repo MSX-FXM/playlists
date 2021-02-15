@@ -1,0 +1,49 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Страх" aspect-ratio=21:9,Страх HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8x/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=21:9,Фантастика HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8y/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,Best Films HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8z/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=4:3,Ералаш HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC80/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=4:3,СССР Фильмы
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC81/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=4:3,Кроха ТВ
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC82/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,Веселая карусель HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC83/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,LOST HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC84/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,Назад В 90-е
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8xMA==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=21:9,Backus TV
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8xMQ==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,Перец Int
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8xMg==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,Страшное HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8xMw==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,Кинозал! Совкино
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8xNQ==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,PZN HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8xNg==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,STR TV
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8xOA==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,Первый космический HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8xOQ==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=21:9,Кинозал! ХИТ HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8yMA==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,Кинозал! VHS HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8yMQ==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,The X-Files
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8yMg==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=21:9,Sky2000 HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8zMQ==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,Sky2000 Cinema HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8yMw==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,Sky2000 Russian HD
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8yNQ==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,WWE Russian
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8yNg==/playlist.m3u8
+#EXTINF:-1 group-title="Страх" aspect-ratio=16:9,Мосфильм. Золотая коллекция
+http://192.168.0.106:7171/shtv/aHR0cHM6Ly9zdHJhaC52aWRlby9pZC8zMg==/playlist.m3u8
