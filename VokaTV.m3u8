@@ -1,0 +1,311 @@
+#EXTM3U
+#EXTINF:-1 group-title="Ultra Hd 4K" tvg-logo="https://satsis.info/uploads/posts/2017-09/thumbs/1506329532_www.satsis.info__fashion-tv-4k.png" logo="https://img10.lostpic.net/2020/03/18/54bd0413be0197a53606c27ba7f0ceb4.png" channelId="280" tvg-id="fashion-tv",Fashion TV 4K
+http://192.168.0.106:9090/VOKA/1
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://minsknews.by/parser/tv/logo/PlusTV.jpg" logo="https://prizma.by/uploads/bc/39/social_preview/bc3949df489a47b5544ff538b23c0b85.png" channelId="-1" tvg-id="belviasat-plustv",+TV
+http://192.168.0.106:9090/VOKA/2
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://www.megapolis-reklama.by/assets/images/ikonki-po-uslugam/tv/logo-tv/d9edb0a972cfafe4bbc8_256x256c.png" logo="https://img15.lostpic.net/2019/10/23/62a77e216ef300f88016e4f9aea00a1b.png" channelId="127" tvg-id="8kanal-by",8 канал HD Беларусь
+http://192.168.0.106:9090/VOKA/3
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://minsknews.by/parser/tv/logo/belbizch.png" channelId="-1" tvg-id="bbch",БелБизнесЧенел
+http://192.168.0.106:9090/VOKA/4
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://telesputnik.ru/upload/iblock/d48/Belros_200.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_70F_12_70_1680000_0_0_0.png" channelId="3866" tvg-id="tro",БелРос
+http://192.168.0.106:9090/VOKA/5
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://getsiptv.ru/img/ch_icons/belarus_1_hd.png" logo="https://img16.lostpic.net/2019/09/17/8cedfecb975131abb88dff951d34f39a.png" channelId="345" tvg-id="belarus1",Беларусь 1 HD
+http://192.168.0.106:9090/VOKA/6
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://only4.tv/ch/6252.png" logo="https://img15.lostpic.net/2019/09/17/d8758c08100dbf16c2417746daff1834.png" channelId="346" tvg-id="belarus2",Беларусь 2 HD
+http://192.168.0.106:9090/VOKA/7
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://only4.tv/ch/6253.png" logo="https://img16.lostpic.net/2019/09/17/4e467dbeeabd3aa682fc599000590b9a.png" channelId="354" tvg-id="belarus3",Беларусь 3 HD
+http://192.168.0.106:9090/VOKA/8
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://only4.tv/ch/6244.png" logo="https://img11.lostpic.net/2018/08/11/7024241a6b54da16164ed5612f5a6c3f.png" channelId="403" tvg-id="vtv",ВТВ Беларусь HD
+http://192.168.0.106:9090/VOKA/9
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://www.oreol.tv/img/014_domashniy_1.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" channelId="-1" tvg-id="domashny-int",Домашний International
+http://192.168.0.106:9090/VOKA/10
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngVd-CAxp6Gm3CJwyvgO9ZtKOrdEzC7eiNnql90=s200-c-k-c0x00ffffff-no-rj?.png" channelId="-1" tvg-id="zvyazda-by",Звязда
+http://192.168.0.106:9090/VOKA/11
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NTV_Belarus.svg/1200px-NTV_Belarus.svg.png" logo="https://img10.lostpic.net/2020/06/19/09fb08bc95f24d327578ee35b4e53a9e.png" channelId="349" tvg-id="ntv-belarus",НТВ Беларусь HD
+http://192.168.0.106:9090/VOKA/12
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://only4.tv/ch/6246.png" logo="https://img11.lostpic.net/2018/08/11/c86b29082f1fc13a0871a15e06dc9624.png" channelId="347" tvg-id="ont-by",ОНТ HD Беларусь
+http://192.168.0.106:9090/VOKA/13
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="https://img12.lostpic.net/2018/05/19/4a7abf6351f69b118dadf524e173c667.png" channelId="-1" tvg-id="piaty-int",Пятый канал International
+http://192.168.0.106:9090/VOKA/14
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://onlines.tv/wp-content/uploads/2017/10/1486051987_41199.jpg" logo="http://frocus.net/images/logotv/rtr-belarus.jpg" channelId="350" tvg-id="rtr-belarus",РТР-Беларусь HD
+http://192.168.0.106:9090/VOKA/15
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://seeklogo.com/images/S/stv-logo-EBDD7A56C4-seeklogo.com.png" logo="http://televizor.org/img/logopit/%D0%A1%D0%A2%D0%92.png" channelId="348" tvg-id="stv-by",СТВ HD Беларусь
+http://192.168.0.106:9090/VOKA/16
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/7977e8b4557a700f67e093f918678d83.png" logo="https://img16.lostpic.net/2019/12/07/a2f9343f5aa6c859fb9daa1a38e953fc.png" channelId="3970" tvg-id="svetloe-tv",Светлое ТВ HD Беларусь
+http://192.168.0.106:9090/VOKA/17
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnigY4r0sc1ylk4j5yZ3vKjDHj0srS3dODmw2ew1qw=s200-c-k-c0x00ffffff-no-rj?.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/a6ec8cd43455d25ca336ea1ba268c755.png" channelId="1514" tvg-id="skif-vitebsk",СкиФ HD Витебск
+http://192.168.0.106:9090/VOKA/18
+#EXTINF:-1 group-title="Беларусь" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniTcGhGh1uhf_303oxL5QZPbPH_t2O_Ea5UcZ16=s200-c-k-c0x00ffffff-no-rj?.png" logo="https://tv2.by/wp-content/uploads/2018/05/Logo-tv2-6.png" channelId="-1" tvg-id="2-kanal-mogilev",ТВ2 Могилёв
+http://192.168.0.106:9090/VOKA/19
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://yasna.by/wp-content/uploads/2020/08/tnt_international_optimized-150x150.jpg" channelId="2915" tvg-id="tnt-int-by",ТНТ International Беларусь
+http://192.168.0.106:9090/VOKA/20
+#EXTINF:-1 group-title="Беларусь" tvg-logo="http://www.xn----7sbh7a4ahb6f.xn--90ais/images/images/domatv.png" channelId="-1",Телемагазин HD/Дома ТВ
+http://192.168.0.106:9090/VOKA/21
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/821.png" logo="http://televizor.org/img/logopit/Boomerang.png" channelId="321" tvg-id="boomerang",Boomerang
+http://192.168.0.106:9090/VOKA/22
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/802.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_322_8_70_168AFFC_0_0_0.png" channelId="40" tvg-id="cartoon-network",Cartoon network
+http://192.168.0.106:9090/VOKA/23
+#EXTINF:-1 group-title="Детские" tvg-logo="https://s2.vcdn.biz/static/f/1558603541/image.jpg/pt/r193x272x4?.png" logo="http://televizor.org/img/logopit/GullI%20Girls.png" channelId="183" tvg-id="gulli-girl",Gulli Girl
+http://192.168.0.106:9090/VOKA/24
+#EXTINF:-1 group-title="Детские" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_32E_8_70_168AFFC_0_0_0.png" channelId="322" tvg-id="nick-jr",Nick Jr
+http://192.168.0.106:9090/VOKA/25
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/98ae584c82788a5d6de546dd1413f7e7.jpg" logo="http://img12.lostpic.net/2018/05/21/cddab3feefb07e113a3f611bc16bc43e.png" channelId="334" tvg-id="nickelodeon-hd",Nickelodeon HD
+http://192.168.0.106:9090/VOKA/26
+#EXTINF:-1 group-title="Детские" tvg-logo="https://pbs.twimg.com/profile_images/1213179665852108800/ElAdXUrf_400x400.jpg" logo="http://img12.lostpic.net/2018/05/21/c31ba800328c5312ccb011680c81b3fc.png" channelId="41" tvg-id="nickelodeon-ru",Nickelodeon
+http://192.168.0.106:9090/VOKA/27
+#EXTINF:-1 group-title="Детские" tvg-logo="https://s9.vcdn.biz/static/f/1558604691/image.jpg/pt/r193x272x4?.png" logo="http://img12.lostpic.net/2018/05/21/e9a5b08bac03751325f59fc1825dc279.png" channelId="182" tvg-id="tiji",TiJi
+http://192.168.0.106:9090/VOKA/28
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/822.png" logo="https://img12.lostpic.net/2018/05/19/565a5e152bb28cc5f587d4d3cc8b946c.png" channelId="20" tvg-id="karusel",Карусель
+http://192.168.0.106:9090/VOKA/29
+#EXTINF:-1 group-title="Детские" tvg-logo="http://www.oreol.tv/img/multilandia-logo.jpg" logo="https://receiver.in.ua/wp-content/uploads/2020/08/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F.png" channelId="186" tvg-id="multimania",Мультиландия
+http://192.168.0.106:9090/VOKA/30
+#EXTINF:-1 group-title="Детские" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/5b2cfe86de6ca8068c39f225c642989c.png" logo="https://img11.lostpic.net/2018/08/08/b8f6377ecd474f91d5516ef1fb97e033.png" channelId="2798" tvg-id="ryzhy",Рыжий
+http://192.168.0.106:9090/VOKA/31
+#EXTINF:-1 group-title="Детские" tvg-logo="https://fastpic.co/images/Skazki-Zayki.jpg" channelId="-1" tvg-id="skazki-zayki",Сказки Зайки
+http://192.168.0.106:9090/VOKA/32
+#EXTINF:-1 group-title="Детские" tvg-logo="http://tv.kubtel.ru/tv_icon/smile.png" channelId="3139" tvg-id="smaylik-tv",Смайлик ТВ
+http://192.168.0.106:9090/VOKA/33
+#EXTINF:-1 group-title="Детские" tvg-logo="https://assets.limehd.tv/uploads/channel/10289/thumb_03729a9758f4972009151d89da8f9a56.png" channelId="-1" tvg-id="sovmultf",Советские мультфильмы
+http://192.168.0.106:9090/VOKA/34
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://pbs.twimg.com/profile_images/732676684156145665/ibnA2mqB_400x400.jpg" channelId="217" tvg-id="euronews",Euronews
+http://192.168.0.106:9090/VOKA/35
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082019/rtvi_logo_2017_28329.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/43deb4eabc184ace07fc7116a8884cc3.png" channelId="405" tvg-id="rtvi",RTVi
+http://192.168.0.106:9090/VOKA/36
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/f0cb517bcd62619ecc79672ef0c45615.jpg" logo="http://tricolor-38.ru/KANALY_4/1-nd.png" channelId="913" tvg-id="amedia1",A1 HD
+http://192.168.0.106:9090/VOKA/37
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/d4ac0b950e622de29836fe186184f901.jpg" logo="http://tricolor-38.ru/KANALY_4/amedia_A2-HD.png" channelId="914" tvg-id="amedia2",A2 HD
+http://192.168.0.106:9090/VOKA/38
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/2103.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/AMedia-Hit-HD.png" channelId="1932" tvg-id="amedia-hit",Amedia Hit HD
+http://192.168.0.106:9090/VOKA/39
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/2104.png" logo="https://antifriz.tv/storage/images/channel_logos/amedia-premium-hd.png" channelId="915" tvg-id="amedia-premium",Amedia Premium HD
+http://192.168.0.106:9090/VOKA/40
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://anatv.pl/wp-content/uploads/2017/08/FOX-HD-670x300.jpg" logo="https://pakt.ru/channels/283.gif" channelId="208" tvg-id="fox",FOX HD
+http://192.168.0.106:9090/VOKA/41
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.goldmir.net/uploads/tv/channel/83/logo_big.jpg" logo="https://antifriz.tv/storage/images/channel_logos/fox-life-hd.png" channelId="205" tvg-id="foxlife",FOX Life HD
+http://192.168.0.106:9090/VOKA/42
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00200.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/2f27d85958fffd37126a14c58d281401.png" channelId="3919" tvg-id="hollywood",Hollywood
+http://192.168.0.106:9090/VOKA/43
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img1.freepng.ru/20180526/ssz/kisspng-paramount-pictures-paramount-channel-television-ch-5b0911313c7998.5096317415273208812477.jpg" logo="http://89.tv-internet.pro/wp-content/uploads/2019/12/160-Paramount-Channel-HD.png" channelId="1719" tvg-id="paramount-channel",Paramount Channel
+http://192.168.0.106:9090/VOKA/44
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.goldmir.net/uploads/tv/channel/340/logo_big.jpg" logo="http://img12.lostpic.net/2018/05/21/333bd825d56570407fc5959f80654f73.png" channelId="1699" name="Paramount Comedy Россия" tvg-id="paramount-comedy",Paramount Comedy Россия
+http://192.168.0.106:9090/VOKA/45
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/121.png" logo="https://antifriz.tv/storage/images/pack_logos/7472ab672fcbb9f7468e8d2eeb4d8d0c.png" channelId="209" tvg-id="shot-tv",Shot TV
+http://192.168.0.106:9090/VOKA/46
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.imgur.com/zN1E7UI.png?948878228710" logo="https://antifriz.tv/storage/images/channel_logos/set-hd.png" channelId="530" tvg-id="sony-tv",Sony Channel HD
+http://192.168.0.106:9090/VOKA/47
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://istec.net.ua/uploads/s/7/s/l/7slfed3oxika/img/full_2dBwLv5v.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2C7_7_70_1680000_0_0_0.png" channelId="69" tvg-id="sony-scifi",Sony Sci-Fi
+http://192.168.0.106:9090/VOKA/48
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/19103.png" logo="https://epgservice.ru/upload/logo/000000208.jpg" channelId="214" tvg-id="tv1000-action",TV1000 Action
+http://192.168.0.106:9090/VOKA/49
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/19104.png" logo="https://epgservice.ru/upload/logo/000000024.png" channelId="65" tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
+http://192.168.0.106:9090/VOKA/50
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/19102.png" logo="https://epgservice.ru/upload/logo/000000023.jpg" channelId="66" tvg-id="tv1000",TV1000
+http://192.168.0.106:9090/VOKA/51
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnizAzrzVbxHjtnEFByDIrcUuiJh8ojZdPYMvuobNQ=s200-c-k-c0x00ffffff-no-rj?.png" logo="https://xn--d1agcb.xn--p1ai/img/dizi_logo_large.png" channelId="-1" tvg-id="timeless-dizi",Timeless Dizi Channel
+http://192.168.0.106:9090/VOKA/52
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://tv.nalench.com/uploads/screenshots/dom_kino_premium.jpg" logo="http://tivix.co/uploads/posts/2017-01/1484820740_dom_kino_premium.png" channelId="2657" tvg-id="domkino-premium",Дом кино Премиум
+http://192.168.0.106:9090/VOKA/53
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://tv.kubtel.ru/tv_icon/domkino.png" logo="http://teledays.net/images/dom_kino.png" channelId="68" tvg-id="domkino",Дом кино
+http://192.168.0.106:9090/VOKA/54
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/0275.png" logo="https://antifriz.tv/storage/images/channel_logos/evrokino-hd.png" channelId="79" tvg-id="evrokino",Еврокино
+http://192.168.0.106:9090/VOKA/55
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.goldmir.net/uploads/tv/channel/106/logo_big.jpg" logo="http://infoua.biz/image/tv/stream/ilplus.png" channelId="190" tvg-id="illuzion-plus",Иллюзион+
+http://192.168.0.106:9090/VOKA/56
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://lime-tv.ru/uploads/posts/2018-03/thumbs/1521739456_kinomenu.jpg" logo="https://static.wikia.nocookie.net/tvpedia/images/7/71/%D0%9A%D0%B8%D0%BD%D0%BE%D0%9C%D0%B5%D0%BD%D1%8E_HD.png/revision/latest?cb=20150122035102&path-prefix=ru" channelId="-1",КиноМеню HD
+http://192.168.0.106:9090/VOKA/57
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinokomediya.png" channelId="194" tvg-id="kinokomedia",Кинокомедия
+http://192.168.0.106:9090/VOKA/58
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinomiks.png" channelId="270" tvg-id="kinomiks",Киномикс
+http://192.168.0.106:9090/VOKA/59
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinopremera_hd.png" channelId="410" tvg-id="kinopremiera-hd",Кинопремьера HD
+http://192.168.0.106:9090/VOKA/60
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinosvidanie.png" channelId="413" tvg-id="kinosvidanie",Киносвидание
+http://192.168.0.106:9090/VOKA/61
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinosemya.png" channelId="568" tvg-id="kinosemiya",Киносемья
+http://192.168.0.106:9090/VOKA/62
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinoseriya.png" channelId="195" tvg-id="kinoseria",Киносерия
+http://192.168.0.106:9090/VOKA/63
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinohit.png" channelId="409" tvg-id="kinoxit",Кинохит
+http://192.168.0.106:9090/VOKA/64
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/d8519bbfa86d95d0e7e4140c7925db16.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/f935ea769f952a128a85930d16fced05.png" channelId="-1" tvg-id="klassika-kino",Классика Кино
+http://192.168.0.106:9090/VOKA/65
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/mujskoe_kino.png" channelId="169" tvg-id="muzhskoe-kino",Мужское кино
+http://192.168.0.106:9090/VOKA/66
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/nashe_novoe_kino.png" channelId="315" tvg-id="nashe-novoe-kino",Наше новое кино
+http://192.168.0.106:9090/VOKA/67
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/6263.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/%D0%A0%D0%B5%D1%82%D1%80%D0%BE.png" channelId="246" tvg-id="retro-tv",Ретро
+http://192.168.0.106:9090/VOKA/68
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://getsiptv.ru/img/ch_icons/rodnoe_kino.png" channelId="316" tvg-id="rodnoe-kino",Родное кино
+http://192.168.0.106:9090/VOKA/69
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/a3de1b5d3c106404afcd.png" logo="https://static.wixstatic.com/media/cbdf9c_9b1c8818b83a4c2da248b79dadeebedc~mv2.png" channelId="189" tvg-id="russky-illuzion",Русский иллюзион
+http://192.168.0.106:9090/VOKA/70
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://assets.limehd.tv/uploads/channel/10290/thumb_b856ce216bce677cebbb660e5d847bcc.png" logo="https://img15.lostpic.net/2020/01/06/40375783926e654eccc2a38541f17075.png" channelId="-1" tvg-id="sovkino",Советское кино
+http://192.168.0.106:9090/VOKA/71
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://89.tv-internet.pro/wp-content/uploads/2019/12/160-%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0.png" logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1549870117761.png" channelId="4644" tvg-id="tayna",Тайна
+http://192.168.0.106:9090/VOKA/72
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://only4.tv/ch/5535.png" logo="http://fenixplus.tv/bitrix/templates/main/images/logo_for_web.png" channelId="197" tvg-id="feniks-plus-kino",Феникс плюс кино
+http://192.168.0.106:9090/VOKA/73
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tv.nalench.com/uploads/screenshots/Europa_Plus_TV.jpg" logo="https://upload.wikimedia.org/wikipedia/ru/thumb/8/8f/EuropaPlus.png/640px-EuropaPlus.png" channelId="42" tvg-id="europa-plus-tv",Europa Plus TV
+http://192.168.0.106:9090/VOKA/74
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/b2b173bac7f4d5a29a5c5d7bf7d2372d.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/a7839195c5ce7fccb1fe314b06328eb2.png" channelId="-1",Live Music Channel
+http://192.168.0.106:9090/VOKA/75
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/1809.png" logo="http://tv.tivix.co/uploads/posts/2018-12/1543641910__tor.png" channelId="44" tvg-id="mcm-top",MCM Top
+http://192.168.0.106:9090/VOKA/76
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZIuidIKmVksAKueumMeC-lqwnse82aNKQg&usqp=CAU?.png" logo="https://static.wikia.nocookie.net/tvpedia/images/0/01/MTV_80s_%282020%2C_%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B9_%D1%88%D1%80%D0%B8%D1%84%D1%82%29.png/revision/latest/scale-to-width-down/220?cb=20201005141932&path-prefix=ru&.png" channelId="149" tvg-id="vh1-classic",MTV 80s
+http://192.168.0.106:9090/VOKA/77
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlPwWIJD1h1u98YDIisIRoTlWW-EtN6nevfQ&usqp=CAU?.png" logo="https://static.wikia.nocookie.net/tvpedia/images/d/d7/MTV_90s_%282020%29.png/revision/latest/scale-to-width-down/220?cb=20201005141711&path-prefix=ru&.png" channelId="290" tvg-id="mtv-rocks",MTV 90s
+http://192.168.0.106:9090/VOKA/78
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.vkpress.ru/upload/iblock/6bc/6bcf72ef37bfaa95e9775af7aea5b7b3.jpg" logo="https://www.apelzin.ru/wp-content/uploads/2010/12/MTV-logo.gif" channelId="1106" tvg-id="mtv-europe",MTV Europe
+http://192.168.0.106:9090/VOKA/79
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00312.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_57C_E_70_1680000_0_0_0.png" channelId="237" tvg-id="mtv-live-hd",MTV Live HD
+http://192.168.0.106:9090/VOKA/80
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://img.rnx.ru/logotvchannel/128-250.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_42D2_11_70_1680000_0_0_0.png" channelId="282" tvg-id="mezzo-live-hd",Mezzo Live HD
+http://192.168.0.106:9090/VOKA/81
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://telesputnik.ru/upload/iblock/0e7/Mezzo_s.jpg" logo="http://teledays.net/images/mezzo.png" channelId="43" tvg-id="mezzo",Mezzo
+http://192.168.0.106:9090/VOKA/82
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhpTIEnKi9uus7uLbYlFudoyqueOYU1-LqZALv-=s200-c-k-c0x00ffffff-no-rj?.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_714_12_70_1680000_0_0_0.png" channelId="-1" tvg-id="ru-tv-by",RU.TV Беларусь
+http://192.168.0.106:9090/VOKA/83
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://only4.tv/ch/817.png" logo="http://teledays.net/images/vh1.png" channelId="46" tvg-id="vh1-european",VH1 Europe
+http://192.168.0.106:9090/VOKA/84
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://pbs.twimg.com/profile_images/1566316548/logo-black_letters_400x400.jpg" logo="http://infoua.biz/image/tv/stream/belmuz.png" channelId="812" tvg-id="belmuztv",БелМузТВ
+http://192.168.0.106:9090/VOKA/85
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://tricolor-38.ru/TRICOLOR_KANALY/zara_tv.jpg" logo="https://crocusgroup.ru/upload/logo_zharaTV_NOtag_RED.png" channelId="285" tvg-id="zhara",ЖАРА TV
+http://192.168.0.106:9090/VOKA/86
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://www.oreol.tv/img/084_lya-minor-tv.jpg" logo="https://img15.lostpic.net/2020/04/02/63162b65a0f7d70c4e86c99e365a8979.png" channelId="150" tvg-id="la-minor",Ля-минор
+http://192.168.0.106:9090/VOKA/87
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://online-red.com/images/tv/one-hd.png" logo="https://img15.lostpic.net/2019/10/26/950e608685beaf75894a6bc07ca9e959.png" channelId="925" tvg-id="onemuz",Первый музыкальный HD
+http://192.168.0.106:9090/VOKA/88
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://ru.live-tv-channels.org/pt-data/uploads/logo/ru-tnt-music-5304-300x225.jpg" logo="http://tv.kubtel.ru/tv_icon/tnt-music.png" channelId="24" tvg-id="tnt-music",ТНТ Music
+http://192.168.0.106:9090/VOKA/89
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://minsknews.by/parser/tv/logo/shansontv.png" channelId="47" tvg-id="shanson-tv",Шансон ТВ
+http://192.168.0.106:9090/VOKA/90
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.goldmir.net/uploads/tv/channel/12/logo_big.jpg" logo="https://receiver.in.ua/wp-content/uploads/2020/08/365-%D0%B4%D0%BD%D0%B5%D0%B9-%D0%A2%D0%92.png" channelId="52" tvg-id="365-dnej",365 дней ТВ
+http://192.168.0.106:9090/VOKA/91
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/2202.png" logo="https://trinity-tv.net/storage/channels/dark_theme_453.png" channelId="240" tvg-id="animal-planet",Animal Planet HD
+http://192.168.0.106:9090/VOKA/92
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://ministar.ru/upload/medialibrary/081/08180a6494e2dcbb2ce6de461357d81e.png" logo="https://b.radikal.ru/b09/1908/ee/68ff27eaa823.png" channelId="57" tvg-id="discovery-channel",Discovery Channel
+http://192.168.0.106:9090/VOKA/93
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tricolor-38.ru/KANALY_3/science-png-hd-400.png" channelId="1508" tvg-id="discovery-science",Discovery Science HD
+http://192.168.0.106:9090/VOKA/94
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://img.prosto.tv/storage/channel/logo/DocuBoxHD.png" logo="https://img16.lostpic.net/2019/12/01/e16a1812a824f89ca75c19ebdfb77510.png" channelId="672" tvg-id="docubox-hd",DocuBox HD
+http://192.168.0.106:9090/VOKA/95
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/8f63703ddafcfbfd316fc13f836e7ece_high.png" channelId="51" tvg-id="english-club-tv",English Club TV
+http://192.168.0.106:9090/VOKA/96
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni0dlthvI63vLFAvOZmFBtZpzrpYNT6KsiYYcBg=s200-c-k-c0x00ffffff-no-rj?.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/c943e4d611587c320b405b91ce045614.png" channelId="-1" tvg-id="foodman-club",Foodman.club
+http://192.168.0.106:9090/VOKA/97
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.oreol.tv/img/hdlife.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_2F47_C_70_1680000_0_0_0.png" channelId="234" tvg-id="hd-life",HDL
+http://192.168.0.106:9090/VOKA/98
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/7859/brand.gif" channelId="1456" tvg-id="history-ru",History HD
+http://192.168.0.106:9090/VOKA/99
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/20101.png" logo="https://trinity-tv.net/storage/channels/dark_theme_524.png" channelId="206" tvg-id="nat-geo-wild",Nat Geo Wild HD
+http://192.168.0.106:9090/VOKA/100
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/0203.png" logo="https://trinity-tv.net/storage/channels/dark_theme_143.png" channelId="207" tvg-id="national-geographic",National Geographic HD
+http://192.168.0.106:9090/VOKA/101
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.goldmir.net/uploads/tv/channel/194/logo_big.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_4AB2_13_70_1680000_0_0_0.png" channelId="252" tvg-id="ocean-tv",Ocean TV
+http://192.168.0.106:9090/VOKA/102
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/38273573bb94690cb9adef12aa685d39_high.png" channelId="596" tvg-id="travel-adventure",Travel+Adventure HD
+http://192.168.0.106:9090/VOKA/103
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://isponline.com.ua/upload/image/tv/6116174a6e53da94308d85a5c7b78588.jpg" logo="http://img12.lostpic.net/2018/05/21/7d6ff6f1b0d613fe5dae61617e125bdf.png" channelId="165" tvg-id="viasat-explore",Viasat Explore
+http://192.168.0.106:9090/VOKA/104
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://isponline.com.ua/upload/image/tv/d279845b3c102dc4110f2d65fd4490e6.jpg" logo="http://img12.lostpic.net/2018/05/21/0dd3e8019c48369a1b0a1c281d452671.png" channelId="166" tvg-id="viasat-history",Viasat History
+http://192.168.0.106:9090/VOKA/105
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/1b311575789dd5e9ec01807a4e169b11.jpg" logo="http://nktv.mk.ua/assets/components/nktv/channels/naturelogo.png" channelId="172" tvg-id="viasat-nature",Viasat Nature
+http://192.168.0.106:9090/VOKA/106
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/09/WF_logo_BLACK_2017.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_52A_D_70_1680000_0_0_0.png" channelId="258" tvg-id="world-fashion-channel",World Fashion Channel HD
+http://192.168.0.106:9090/VOKA/107
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/1113.png" logo="http://telekanalzoopark.ru/images/logo.png" channelId="167" tvg-id="zoopark",Zоопарк
+http://192.168.0.106:9090/VOKA/108
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто Плюс
+http://192.168.0.106:9090/VOKA/109
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/702.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2BE_7_70_1680000_0_0_0.png" channelId="1282" tvg-id="avto24",Авто24
+http://192.168.0.106:9090/VOKA/110
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/5599.png" logo="https://img11.lostpic.net/2018/08/09/d6594ade20e82498eb71a1ccad611ffe.png" channelId="3974" tvg-id="v-mire-zhivotnyx-hd",В мире животных HD
+http://192.168.0.106:9090/VOKA/111
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://crimeastar.net/iptv-logos/79.png" channelId="325" tvg-id="zagorodnaya-zhizn",Загородная жизнь
+http://192.168.0.106:9090/VOKA/112
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/6265.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B5-%D0%A2%D0%92.png" channelId="247" tvg-id="zdorovoe-tv",Здоровое ТВ
+http://192.168.0.106:9090/VOKA/113
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/109.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_6D_1_70_1680000_0_0_0.png" channelId="174" tvg-id="kto-est-kto",Кто есть кто
+http://192.168.0.106:9090/VOKA/114
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://glaz-ok.online/wp-content/uploads/2018/05/kuhnya-tv.jpg" logo="https://img11.lostpic.net/2018/08/12/7f8e540b0da32524233fc76c804a6809.png" channelId="75" tvg-id="kuxnia-tv",Кухня ТВ
+http://192.168.0.106:9090/VOKA/115
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.cableman.ru/sites/default/files/neizplanet.jpg" logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510774051_neizvestnaya-planeta.png" channelId="-1" tvg-id="0",Неизвестная Планета
+http://192.168.0.106:9090/VOKA/116
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/117.png" logo="http://img12.lostpic.net/2018/05/12/ac1181fc284d31420e384db0f0406ae9.png" channelId="160" tvg-id="nostalgia",Ностальгия
+http://192.168.0.106:9090/VOKA/117
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.goldmir.net/uploads/tv/channel/203/logo_big.jpg" logo="http://galamtv.org/uploads/posts/2020-05/1589717069_oruzie.png" channelId="223" tvg-id="oruzhie",Оружие
+http://192.168.0.106:9090/VOKA/118
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" channelId="5" tvg-id="kultura",Россия К
+http://192.168.0.106:9090/VOKA/119
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj2gd-PyJniMs0cTSz93Mst2dgCtZE0yrnfGGWT=s200-c-k-c0x00ffffff-no-rj?.png" logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1555312225169.png" channelId="391" tvg-id="tayny-galaktiki",Тайны Галактики
+http://192.168.0.106:9090/VOKA/120
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://img.s-tv.ru/logos/terrainkog.jpg" logo="https://img16.lostpic.net/2020/01/30/5ace75e41944a5dd44c90a70bd06e55b.png" channelId="-1" tvg-id="terra-inkognita",Терра Инкогнита
+http://192.168.0.106:9090/VOKA/121
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://www.oreol.tv/img/usadba1.jpg" logo="http://infoua.biz/image/tv/stream/usadba.png" channelId="222" tvg-id="usadba",Усадьба
+http://192.168.0.106:9090/VOKA/122
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/uspeh_tv.jpg" channelId="49" tvg-id="uspex",Успех
+http://192.168.0.106:9090/VOKA/123
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/0145.png" logo="https://img11.lostpic.net/2018/08/09/945258a7e5e7a1e75d8c0f32386447d7.png" channelId="1800" tvg-id="eureka-hd",Эврика HD
+http://192.168.0.106:9090/VOKA/124
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://teleon.tv/images/logos/telekanal_2x2_ru.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" tvg-id="2na2",2x2
+http://192.168.0.106:9090/VOKA/125
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/d9b5a8e6208809864a07db16cc727119.jpg" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/15e080c27bb5eec0d93317050f3982e7.png" channelId="4020",Funbox 4K UHD
+http://192.168.0.106:9090/VOKA/126
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/0262.png" channelId="231" tvg-id="hd-media",HD Медиа
+http://192.168.0.106:9090/VOKA/127
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/6224.png" channelId="76" tvg-id="zhivi",Живи!
+http://192.168.0.106:9090/VOKA/128
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://telesputnik.ru/upload/iblock/07b/KVN-TV_b.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_7C_1_70_1680000_0_0_0.png" channelId="3047" tvg-id="kvn-tv",КВН ТВ
+http://192.168.0.106:9090/VOKA/129
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://telesputnik.ru/upload/iblock/1c4/logotip_telekanal_muzhskoy_1.jpg" channelId="323" tvg-id="muzhskoy",Мужской
+http://192.168.0.106:9090/VOKA/130
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://real.su/wp-content/uploads/2020/06/ohota-i-ribalka-icon.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/%D0%9E%D1%85%D0%BE%D1%82%D0%B0-%D0%B8-%D0%A0%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0.png" channelId="221" tvg-id="oxota-i-rybalka",Охота и рыбалка
+http://192.168.0.106:9090/VOKA/131
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://ttk-temirtau.kz/wp-content/uploads/2020/10/5_1947871_ru_536ba857a45304999b12bd828a2a2907.jpg" logo="https://img16.lostpic.net/2019/07/24/a676821c1f5a8832ea35fe4e9830438e.png" channelId="335" tvg-id="oxotnik-i-rybolov-hd",Охотник и рыболов HD
+http://192.168.0.106:9090/VOKA/132
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://iptv-pro.ru/Logotip-kanalov/perec_international.jpg" channelId="2909" tvg-id="perec-int",Перец International
+http://192.168.0.106:9090/VOKA/133
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" tvg-id="tv3-ru",ТВ3
+http://192.168.0.106:9090/VOKA/134
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://kct.me/static/media/images/ktv/%D1%82%D0%B5%D0%B0%D1%82%D1%80.png" logo="https://img12.lostpic.net/2018/06/07/547d1ba3381cb41efb743593c19c124a.png" channelId="581" tvg-id="teatr",Театр
+http://192.168.0.106:9090/VOKA/135
+#EXTINF:-1 group-title="Религиозные" tvg-logo="http://lime-tv.ru/uploads/posts/2018-04/1523299254_souz.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/%D0%A1%D0%BE%D1%8E%D0%B7.png" channelId="35" tvg-id="soyuz",Союз
+http://192.168.0.106:9090/VOKA/136
+#EXTINF:-1 group-title="Россия" tvg-logo="http://kovrovinter.net/wp-content/uploads/2017/04/mir_hd.jpg" logo="https://img12.lostpic.net/2018/05/19/664acc3d5e051e6a34e46a80b4691fa4.png" channelId="138" tvg-id="mir",Мир HD
+http://192.168.0.106:9090/VOKA/137
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://tricolor-38.ru/KANALY_3/Eurosport-1-HD.png" logo="https://img10.lostpic.net/2020/03/18/fbb555a3a1f5ef2d794b3548642ea899.png" channelId="225" tvg-id="eurosport1",Eurosport 1 HD
+http://192.168.0.106:9090/VOKA/138
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fast_and_fun_box_hd.png" channelId="729" tvg-id="fastfunbox-hd",Fast&FunBox HD
+http://192.168.0.106:9090/VOKA/139
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://app-greatiptv.fra1.digitaloceanspaces.com/channels-logo/pack-1/M1GLOBAL200.png" logo="https://gigtv.crimeastar.net/storage/logos/channel139.png" channelId="3877" tvg-id="m1global",M-1 Global
+http://192.168.0.106:9090/VOKA/140
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/4485ea25c798d7416a1a51cd0475dd32.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/ccf3d4381c2226f11e3f941d094628f3.png" channelId="-1",Parimatch Ice Racing
+http://192.168.0.106:9090/VOKA/141
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/410f25856524c9cf135352df6fa2331e.png" logo="http://s8.hostingkartinok.com/uploads/images/2021/02/5574b0df3d95952823cb04780ca6149a.png" channelId="154" tvg-id="russky-ekstrim",SD REX
+http://192.168.0.106:9090/VOKA/142
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5509.png" logo="http://vip-tv.biz/uploads/posts/2020-05/1589877958_1589711479_1587969202_setanta1.png" channelId="4848" name="Setanta Sports 1" tvg-id="setanta-sports",Setanta Sports 1 HD
+http://192.168.0.106:9090/VOKA/143
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5510.png" logo="http://vip-tv.biz/uploads/posts/2020-05/1589960575_1589716161_1587972400_setanta2.png" channelId="4849" name="Setanta Sports 2" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
+http://192.168.0.106:9090/VOKA/144
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5532.png" logo="http://img16.lostpic.net/2019/04/24/f04844db3ecf5c94bafdf36984742b26.png" channelId="4642" name="UFC ТВ" tvg-id="ufc",UFC ТВ HD
+http://192.168.0.106:9090/VOKA/145
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/374d9dc14fb004e67d4e5d0205eb8a97.jpg" logo="https://img12.lostpic.net/2018/05/21/ead014da2c1de8ae0677ec0f0c010dfb.png" channelId="155" tvg-id="viasat-sport",Viasat Sport
+http://192.168.0.106:9090/VOKA/146
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://getsiptv.ru/img/ch_icons/belarus_5_hd.png" logo="https://img16.lostpic.net/2019/09/17/94644d5d6669b14a1bcd18cfd12ce44d.png" channelId="1511" tvg-id="belarus5",Беларусь 5 HD
+http://192.168.0.106:9090/VOKA/147
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5563.png" logo="https://img16.lostpic.net/2019/10/08/625e541c4c53c6705afecb08eea61802.png" channelId="220" tvg-id="drive",Драйв
+http://192.168.0.106:9090/VOKA/148
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/0206.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_2F4A_C_70_1680000_0_0_0.png" channelId="226" tvg-id="kxl-hd",КХЛ HD
+http://192.168.0.106:9090/VOKA/149
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1318.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_526_D_70_1680000_0_0_0.png" channelId="80" tvg-id="kxl",КХЛ ТВ
+http://192.168.0.106:9090/VOKA/150
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://tv.nalench.com/uploads/screenshots/match_planeta.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_70_1_70_1680000_0_0_0.png" channelId="447" tvg-id="match-planeta",Матч! Планета
+http://192.168.0.106:9090/VOKA/151
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://static.tildacdn.com/tild6262-3465-4632-b330-653339383363/199407587.png" channelId="919" tvg-id="football-ru",Футбол HD
+http://192.168.0.106:9090/VOKA/152
+#EXTINF:-1 group-title="Телемагазины" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/2ddfcf124eb057f54365a2c22067780b.jpg" channelId="1656" tvg-id="luxury",Luxury HD
+http://192.168.0.106:9090/VOKA/153
+#EXTINF:-1 group-title="Украина" tvg-logo="https://pbs.twimg.com/profile_images/1000159187123539970/35uj-H2w.jpg" channelId="470" tvg-id="ua-tv",UATV
+http://192.168.0.106:9090/VOKA/154
+#EXTINF:-1 group-title="Украина" tvg-logo="http://crazy.net.ua/templates/tv/icons/rozv/Kvartal%20TV.png" logo="https://trinity-tv.net/storage/channels/dark_theme_456.png" channelId="3156" tvg-id="kvartal-tv",Квартал ТВ
+http://192.168.0.106:9090/VOKA/155
