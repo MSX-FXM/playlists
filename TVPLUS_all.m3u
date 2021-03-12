@@ -1,0 +1,269 @@
+#EXTM3U url-tvg="http://192.168.0.106:9098/epg/TV+ HD.xml?all" 
+#EXTINF:-1  group-title="HD" tvg-id="",Первый HD
+http://192.168.0.106:9098/InternationalID=1660.ts
+#EXTINF:-1  group-title="HD" tvg-id="",Россия 1 HD
+http://192.168.0.106:9098/InternationalID=1661.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Матч ТВ
+http://192.168.0.106:9098/InternationalID=1662.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",НТВ
+http://192.168.0.106:9098/InternationalID=1663.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Пятый канал
+http://192.168.0.106:9098/InternationalID=1664.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Культура
+http://192.168.0.106:9098/InternationalID=1665.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Россия 24
+http://192.168.0.106:9098/InternationalID=1666.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Карусель
+http://192.168.0.106:9098/InternationalID=1667.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ОТР
+http://192.168.0.106:9098/InternationalID=1668.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТВЦ
+http://192.168.0.106:9098/InternationalID=1669.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Рен ТВ
+http://192.168.0.106:9098/InternationalID=1670.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Спас
+http://192.168.0.106:9098/InternationalID=1671.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",СТС
+http://192.168.0.106:9098/InternationalID=1672.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Домашний
+http://192.168.0.106:9098/InternationalID=1673.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТВ-3
+http://192.168.0.106:9098/InternationalID=1674.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Пятница
+http://192.168.0.106:9098/InternationalID=1675.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Звезда
+http://192.168.0.106:9098/InternationalID=1676.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Мир
+http://192.168.0.106:9098/InternationalID=1677.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТНТ
+http://192.168.0.106:9098/InternationalID=1678.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Муз ТВ
+http://192.168.0.106:9098/InternationalID=1679.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Europa Plus TV
+http://192.168.0.106:9098/InternationalID=1680.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТНТ Music
+http://192.168.0.106:9098/InternationalID=1681.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Bridge TV
+http://192.168.0.106:9098/InternationalID=1682.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Bridge TV Русский хит
+http://192.168.0.106:9098/InternationalID=1683.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Bridge TV Classic
+http://192.168.0.106:9098/InternationalID=1684.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Bridge TV Hits
+http://192.168.0.106:9098/InternationalID=1685.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Russian music box
+http://192.168.0.106:9098/InternationalID=1686.ts
+#EXTINF:-1  group-title="HD" tvg-id="",Russian Music Box HD
+http://192.168.0.106:9098/InternationalID=1687.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Ю
+http://192.168.0.106:9098/InternationalID=1688.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Канал Disney
+http://192.168.0.106:9098/InternationalID=1689.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",2x2
+http://192.168.0.106:9098/InternationalID=1690.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТНТ4
+http://192.168.0.106:9098/InternationalID=1691.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Супер
+http://192.168.0.106:9098/InternationalID=1692.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",СТС Love
+http://192.168.0.106:9098/InternationalID=1693.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Че
+http://192.168.0.106:9098/InternationalID=1694.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Кинопремьера
+http://192.168.0.106:9098/InternationalID=1695.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Кинохит
+http://192.168.0.106:9098/InternationalID=1696.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Киносвидание
+http://192.168.0.106:9098/InternationalID=1697.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Киносемья
+http://192.168.0.106:9098/InternationalID=1698.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Мужское кино
+http://192.168.0.106:9098/InternationalID=1699.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Киномикс
+http://192.168.0.106:9098/InternationalID=1700.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Наше новое кино
+http://192.168.0.106:9098/InternationalID=1701.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Родное кино
+http://192.168.0.106:9098/InternationalID=1702.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Кинокомедия
+http://192.168.0.106:9098/InternationalID=1703.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Индийское кино
+http://192.168.0.106:9098/InternationalID=1704.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Киносерия
+http://192.168.0.106:9098/InternationalID=1705.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Киноужас
+http://192.168.0.106:9098/InternationalID=1706.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Матч! Футбол 1
+http://192.168.0.106:9098/InternationalID=1707.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Матч! Футбол 2
+http://192.168.0.106:9098/InternationalID=1708.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Матч! Футбол 3
+http://192.168.0.106:9098/InternationalID=1709.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Матч! Премьер
+http://192.168.0.106:9098/InternationalID=1710.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Матч! Арена
+http://192.168.0.106:9098/InternationalID=1711.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Матч! Игра
+http://192.168.0.106:9098/InternationalID=1712.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Матч! Страна
+http://192.168.0.106:9098/InternationalID=1713.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Матч! Боец
+http://192.168.0.106:9098/InternationalID=1714.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",M-1 Global
+http://192.168.0.106:9098/InternationalID=1715.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Бокс ТВ
+http://192.168.0.106:9098/InternationalID=1716.ts
+#EXTINF:-1  group-title="HD" tvg-id="",НТВ HD
+http://192.168.0.106:9098/InternationalID=1717.ts
+#EXTINF:-1  group-title="HD" tvg-id="",Мир HD
+http://192.168.0.106:9098/InternationalID=1718.ts
+#EXTINF:-1  group-title="HD" tvg-id="",ТНТ HD
+http://192.168.0.106:9098/InternationalID=1719.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="HD" tvg-id="",Матч ТВ HD
+http://192.168.0.106:9098/InternationalID=1720.ts
+#EXTINF:-1  group-title="HD" tvg-id="",Матч! Футбол 1 HD
+http://192.168.0.106:9098/InternationalID=1721.ts
+#EXTINF:-1  group-title="HD" tvg-id="",Матч! Футбол 2 HD
+http://192.168.0.106:9098/InternationalID=1722.ts
+#EXTINF:-1  group-title="HD" tvg-id="",Матч! Футбол 3 HD
+http://192.168.0.106:9098/InternationalID=1723.ts
+#EXTINF:-1  group-title="HD" tvg-id="",Матч! Премьер HD
+http://192.168.0.106:9098/InternationalID=1724.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="HD" tvg-id="",КХЛ HD
+http://192.168.0.106:9098/InternationalID=1725.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="HD" tvg-id="",Матч! Арена HD
+http://192.168.0.106:9098/InternationalID=1726.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="HD" tvg-id="",Матч! Игра HD
+http://192.168.0.106:9098/InternationalID=1727.ts
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}" catchup-days="1" group-title="Новые каналы" tvg-id="",Москва 24 (Москва)
+http://192.168.0.106:9098/InternationalID=1728.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Известия
+http://192.168.0.106:9098/InternationalID=1729.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Башкортостан 24
+http://192.168.0.106:9098/InternationalID=1730.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ОТВ 24 (Екатеринбург)
+http://192.168.0.106:9098/InternationalID=1731.ts
+#EXTINF:-1  group-title="HD" tvg-id="",Russia Today HD
+http://192.168.0.106:9098/InternationalID=1732.ts
+#EXTINF:-1  group-title="HD" tvg-id="",RT Д HD
+http://192.168.0.106:9098/InternationalID=1733.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Нано
+http://192.168.0.106:9098/InternationalID=1734.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Luxury
+http://192.168.0.106:9098/InternationalID=1735.ts
+#EXTINF:-1  group-title="HD" tvg-id="",HD Media
+http://192.168.0.106:9098/InternationalID=1736.ts
+#EXTINF:-1  group-title="HD" tvg-id="",КиноМеню HD
+http://192.168.0.106:9098/InternationalID=1737.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Неизвестная планета
+http://192.168.0.106:9098/InternationalID=1738.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Терра Инкогнита
+http://192.168.0.106:9098/InternationalID=1739.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Патриот
+http://192.168.0.106:9098/InternationalID=1740.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Классика Кино
+http://192.168.0.106:9098/InternationalID=1741.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Советское кино
+http://192.168.0.106:9098/InternationalID=1742.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Советские мультфильмы
+http://192.168.0.106:9098/InternationalID=1743.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Сказки Зайки
+http://192.168.0.106:9098/InternationalID=1744.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Joy Cook
+http://192.168.0.106:9098/InternationalID=1745.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Радость моя
+http://192.168.0.106:9098/InternationalID=1746.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Про Бизнес
+http://192.168.0.106:9098/InternationalID=1747.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Точка ТВ
+http://192.168.0.106:9098/InternationalID=1748.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",11 канал (Пенза)
+http://192.168.0.106:9098/InternationalID=1749.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Прибой
+http://192.168.0.106:9098/InternationalID=1750.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТМ-КВАНТ (Междуреченск)
+http://192.168.0.106:9098/InternationalID=1751.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТНВ-Планета (Казань)
+http://192.168.0.106:9098/InternationalID=1752.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Майдан (Казань)
+http://192.168.0.106:9098/InternationalID=1753.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Шаян
+http://192.168.0.106:9098/InternationalID=1754.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",БСТ
+http://192.168.0.106:9098/InternationalID=1755.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Тамыр
+http://192.168.0.106:9098/InternationalID=1756.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Курай-ТВ
+http://192.168.0.106:9098/InternationalID=1757.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Салям
+http://192.168.0.106:9098/InternationalID=1758.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Bridge TV Deluxe
+http://192.168.0.106:9098/InternationalID=1759.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",НТВ (+2)
+http://192.168.0.106:9098/InternationalID=1760.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",НТВ (+4)
+http://192.168.0.106:9098/InternationalID=1761.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",НТВ (+6)
+http://192.168.0.106:9098/InternationalID=1762.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Первый (+2)
+http://192.168.0.106:9098/InternationalID=1763.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Первый (+4)
+http://192.168.0.106:9098/InternationalID=1764.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Первый (+6)
+http://192.168.0.106:9098/InternationalID=1765.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",РЕН ТВ (+2)
+http://192.168.0.106:9098/InternationalID=1766.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",РЕН ТВ (+4)
+http://192.168.0.106:9098/InternationalID=1767.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",РЕН ТВ (+6)
+http://192.168.0.106:9098/InternationalID=1768.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Россия 1 (+2)
+http://192.168.0.106:9098/InternationalID=1769.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Россия 1 (+4)
+http://192.168.0.106:9098/InternationalID=1770.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Россия 1 (+6)
+http://192.168.0.106:9098/InternationalID=1771.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",СТС (+2)
+http://192.168.0.106:9098/InternationalID=1772.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",СТС (+4)
+http://192.168.0.106:9098/InternationalID=1773.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",СТС (+6)
+http://192.168.0.106:9098/InternationalID=1774.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТНТ (+2)
+http://192.168.0.106:9098/InternationalID=1775.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТНТ (+4)
+http://192.168.0.106:9098/InternationalID=1776.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТНТ (+6)
+http://192.168.0.106:9098/InternationalID=1777.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТВ-3 (+2)
+http://192.168.0.106:9098/InternationalID=1778.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТВ-3 (+4)
+http://192.168.0.106:9098/InternationalID=1779.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",ТВ-3 (+6)
+http://192.168.0.106:9098/InternationalID=1780.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Карусель (+2)
+http://192.168.0.106:9098/InternationalID=1781.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Карусель (+4)
+http://192.168.0.106:9098/InternationalID=1782.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Карусель (+6)
+http://192.168.0.106:9098/InternationalID=1783.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Центральное телевидение
+http://192.168.0.106:9098/InternationalID=1784.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Пятница! (+2)
+http://192.168.0.106:9098/InternationalID=1785.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Пятница! (+4)
+http://192.168.0.106:9098/InternationalID=1786.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Пятница! (+6)
+http://192.168.0.106:9098/InternationalID=1787.ts
+#EXTINF:-1  group-title="HD" tvg-id="",СТС HD
+http://192.168.0.106:9098/InternationalID=1788.ts
+#EXTINF:-1  group-title="HD" tvg-id="",РЕН ТВ HD
+http://192.168.0.106:9098/InternationalID=1789.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Россия 1
+http://192.168.0.106:9098/InternationalID=1790.ts
+#EXTINF:-1  group-title="HD" tvg-id="",ТВ-3 HD
+http://192.168.0.106:9098/InternationalID=1791.ts
+#EXTINF:-1  group-title="Новые каналы" tvg-id="",Первый
+http://192.168.0.106:9098/InternationalID=1792.ts
+#EXTINF:-1  group-title="HD" tvg-id="",Пятница! HD
+http://192.168.0.106:9098/InternationalID=1793.ts
